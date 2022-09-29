@@ -1,0 +1,3592 @@
+[{
+  "circulating_supply": 18881237,
+  "h24": -1.07,
+  "h7": -5.56,
+  "market_cap": 1084072162650,
+  "name": "Bitcoin",
+  "price": 57415.31,
+  "ticker": "BTC",
+  "volume": 38771397331
+}, {
+  "circulating_supply": 118459282,
+  "h24": 2.26,
+  "h7": 0.26,
+  "market_cap": 512864762508,
+  "name": "Ethereum",
+  "price": 4329.46,
+  "ticker": "ETH",
+  "volume": 22817370691
+}, {
+  "circulating_supply": 166801148,
+  "h24": 4.33,
+  "h7": 1.28,
+  "market_cap": 99596994267,
+  "name": "Binance Coin",
+  "price": 597.71,
+  "ticker": "BNB",
+  "volume": 3002488345
+}, {
+  "circulating_supply": 72493043702,
+  "h24": -0.07,
+  "h7": -0.01,
+  "market_cap": 72490230893,
+  "name": "Tether",
+  "price": 1.0,
+  "ticker": "USDT",
+  "volume": 85201858611
+}, {
+  "circulating_supply": 303777490,
+  "h24": -1.94,
+  "h7": -3.22,
+  "market_cap": 66110234290,
+  "name": "Solana",
+  "price": 217.63,
+  "ticker": "SOL",
+  "volume": 2525109526
+}, {
+  "circulating_supply": 33313246915,
+  "h24": -0.85,
+  "h7": -7.25,
+  "market_cap": 59601902954,
+  "name": "Cardano",
+  "price": 1.79,
+  "ticker": "ADA",
+  "volume": 1551347707
+}, {
+  "circulating_supply": 47158974920,
+  "h24": -0.28,
+  "h7": -4.8,
+  "market_cap": 49681150186,
+  "name": "XRP",
+  "price": 1.05,
+  "ticker": "XRP",
+  "volume": 3027806156
+}, {
+  "circulating_supply": 987579315,
+  "h24": 2.37,
+  "h7": -2.7,
+  "market_cap": 40568534776,
+  "name": "Polkadot",
+  "price": 41.08,
+  "ticker": "DOT",
+  "volume": 1255861726
+}, {
+  "circulating_supply": 36674883209,
+  "h24": 0.01,
+  "h7": -0.07,
+  "market_cap": 36672459353,
+  "name": "USD Coin",
+  "price": 0.9999,
+  "ticker": "USDC",
+  "volume": 5190574801
+}, {
+  "circulating_supply": 132236148897,
+  "h24": 3.53,
+  "h7": -4.67,
+  "market_cap": 30525137874,
+  "name": "Dogecoin",
+  "price": 0.2308,
+  "ticker": "DOGE",
+  "volume": 1858929146
+}, {
+  "circulating_supply": 223853162,
+  "h24": -8.93,
+  "h7": 41.29,
+  "market_cap": 29369843099,
+  "name": "Avalanche",
+  "price": 131.2,
+  "ticker": "AVAX",
+  "volume": 2584874384
+}, {
+  "circulating_supply": 549055952729359,
+  "h24": -4.08,
+  "h7": -15.15,
+  "market_cap": 23460938794,
+  "name": "SHIBA INU",
+  "price": 0.00004273,
+  "ticker": "SHIB",
+  "volume": 1757269641
+}, {
+  "circulating_supply": 25263013692,
+  "h24": 9.92,
+  "h7": 92.77,
+  "market_cap": 20877332383,
+  "name": "Crypto.com Coin",
+  "price": 0.8264,
+  "ticker": "CRO",
+  "volume": 1682140536
+}, {
+  "circulating_supply": 398985081,
+  "h24": 1.21,
+  "h7": -5.24,
+  "market_cap": 16854565035,
+  "name": "Terra",
+  "price": 42.2,
+  "ticker": "LUNA",
+  "volume": 690655307
+}, {
+  "circulating_supply": 69037345,
+  "h24": -1.05,
+  "h7": -9.79,
+  "market_cap": 14699396498,
+  "name": "Litecoin",
+  "price": 212.96,
+  "ticker": "LTC",
+  "volume": 1999052302
+}, {
+  "circulating_supply": 248578,
+  "h24": -1.39,
+  "h7": -5.15,
+  "market_cap": 14096507381,
+  "name": "Wrapped Bitcoin",
+  "price": 56708.54,
+  "ticker": "WBTC",
+  "volume": 398451692
+}, {
+  "circulating_supply": 627857379,
+  "h24": 1.41,
+  "h7": 0.5,
+  "market_cap": 13881743137,
+  "name": "Uniswap",
+  "price": 22.11,
+  "ticker": "UNI",
+  "volume": 272860224
+}, {
+  "circulating_supply": 13223556921,
+  "h24": 0.02,
+  "h7": 0.03,
+  "market_cap": 13222023369,
+  "name": "Binance USD",
+  "price": 0.9999,
+  "ticker": "BUSD",
+  "volume": 7277267860
+}, {
+  "circulating_supply": 467009554,
+  "h24": 0.39,
+  "h7": -8.36,
+  "market_cap": 12824959568,
+  "name": "Chainlink",
+  "price": 27.46,
+  "ticker": "LINK",
+  "volume": 909413345
+}, {
+  "circulating_supply": 6966682963,
+  "h24": 7.37,
+  "h7": 4.77,
+  "market_cap": 11706779871,
+  "name": "Polygon",
+  "price": 1.68,
+  "ticker": "MATIC",
+  "volume": 925904892
+}, {
+  "circulating_supply": 6256695541,
+  "h24": -0.16,
+  "h7": 2.62,
+  "market_cap": 11110757279,
+  "name": "Algorand",
+  "price": 1.78,
+  "ticker": "ALGO",
+  "volume": 421065089
+}, {
+  "circulating_supply": 18908450,
+  "h24": -0.21,
+  "h7": -7.19,
+  "market_cap": 10701667702,
+  "name": "Bitcoin Cash",
+  "price": 565.97,
+  "ticker": "BCH",
+  "volume": 1189942854
+}, {
+  "circulating_supply": 19777507,
+  "h24": 0.29,
+  "h7": 61.09,
+  "market_cap": 9755727874,
+  "name": "Elrond",
+  "price": 493.27,
+  "ticker": "EGLD",
+  "volume": 1265068043
+}, {
+  "circulating_supply": 64315576989,
+  "h24": -0.76,
+  "h7": -14.1,
+  "market_cap": 8326579835,
+  "name": "VeChain",
+  "price": 0.1295,
+  "ticker": "VET",
+  "volume": 569813015
+}, {
+  "circulating_supply": 24303281660,
+  "h24": -3.93,
+  "h7": -3.23,
+  "market_cap": 8244366574,
+  "name": "Stellar",
+  "price": 0.3392,
+  "ticker": "XLM",
+  "volume": 710005735
+}, {
+  "circulating_supply": 60907500,
+  "h24": 2.76,
+  "h7": 1.92,
+  "market_cap": 8224159331,
+  "name": "Axie Infinity",
+  "price": 135.03,
+  "ticker": "AXS",
+  "volume": 486334818
+}, {
+  "circulating_supply": 182652230,
+  "h24": -0.98,
+  "h7": -2.81,
+  "market_cap": 7711072530,
+  "name": "Internet Computer",
+  "price": 42.22,
+  "ticker": "ICP",
+  "volume": 208000966
+}, {
+  "circulating_supply": 71659657369,
+  "h24": -0.44,
+  "h7": -7.79,
+  "market_cap": 7403353097,
+  "name": "TRON",
+  "price": 0.1033,
+  "ticker": "TRX",
+  "volume": 2277489037
+}, {
+  "circulating_supply": 1824623435,
+  "h24": 2.77,
+  "h7": 26.65,
+  "market_cap": 7395962755,
+  "name": "Decentraland",
+  "price": 4.05,
+  "ticker": "MANA",
+  "volume": 4138925150
+}, {
+  "circulating_supply": 225039927,
+  "h24": -1.57,
+  "h7": 10.22,
+  "market_cap": 7276614305,
+  "name": "Cosmos",
+  "price": 32.33,
+  "ticker": "ATOM",
+  "volume": 992667310
+}, {
+  "circulating_supply": 7195742044,
+  "h24": -0.15,
+  "h7": -0.3,
+  "market_cap": 7196501105,
+  "name": "TerraUSD",
+  "price": 1.0,
+  "ticker": "UST",
+  "volume": 112631260
+}, {
+  "circulating_supply": 139739225,
+  "h24": 0.07,
+  "h7": -3.23,
+  "market_cap": 7113937959,
+  "name": "FTX Token",
+  "price": 50.91,
+  "ticker": "FTT",
+  "volume": 214408360
+}, {
+  "circulating_supply": 1000000000,
+  "h24": -0.81,
+  "h7": 2.94,
+  "market_cap": 6592116206,
+  "name": "THETA",
+  "price": 6.59,
+  "ticker": "THETA",
+  "volume": 231319320
+}, {
+  "circulating_supply": 127358264,
+  "h24": -1.88,
+  "h7": -9.7,
+  "market_cap": 6553677897,
+  "name": "Filecoin",
+  "price": 51.46,
+  "ticker": "FIL",
+  "volume": 508973745
+}, {
+  "circulating_supply": 6474951714,
+  "h24": 0.13,
+  "h7": 0.16,
+  "market_cap": 6506093598,
+  "name": "Dai",
+  "price": 1.0,
+  "ticker": "DAI",
+  "volume": 755870727
+}, {
+  "circulating_supply": 131177472,
+  "h24": 0.5,
+  "h7": -3.7,
+  "market_cap": 6503030841,
+  "name": "Ethereum Classic",
+  "price": 49.57,
+  "ticker": "ETC",
+  "volume": 697442544
+}, {
+  "circulating_supply": 2545006273,
+  "h24": 20.28,
+  "h7": 7.01,
+  "market_cap": 6155975726,
+  "name": "Fantom",
+  "price": 2.42,
+  "ticker": "FTM",
+  "volume": 1257118292
+}, {
+  "circulating_supply": 105110,
+  "h24": -1.67,
+  "h7": -6.13,
+  "market_cap": 6001834783,
+  "name": "Bitcoin BEP2",
+  "price": 57100.57,
+  "ticker": "BTCB",
+  "volume": 43297690
+}, {
+  "circulating_supply": 15551462369,
+  "h24": -1.88,
+  "h7": -9.3,
+  "market_cap": 5660847848,
+  "name": "Hedera",
+  "price": 0.3641,
+  "ticker": "HBAR",
+  "volume": 96054747
+}, {
+  "circulating_supply": 563065519,
+  "h24": 3.45,
+  "h7": -3.5,
+  "market_cap": 5391128990,
+  "name": "NEAR Protocol",
+  "price": 9.58,
+  "ticker": "NEAR",
+  "volume": 184449816
+}, {
+  "circulating_supply": 892246119,
+  "h24": 20.88,
+  "h7": 72.93,
+  "market_cap": 4722633839,
+  "name": "The Sandbox",
+  "price": 5.29,
+  "ticker": "SAND",
+  "volume": 5329437851
+}, {
+  "circulating_supply": 868011402,
+  "h24": 1.76,
+  "h7": -2.72,
+  "market_cap": 4493227124,
+  "name": "Tezos",
+  "price": 5.2,
+  "ticker": "XTZ",
+  "volume": 178763158
+}, {
+  "circulating_supply": 102580532,
+  "h24": 2.19,
+  "h7": -6.79,
+  "market_cap": 4483636988,
+  "name": "Helium",
+  "price": 43.73,
+  "ticker": "HNT",
+  "volume": 38468745
+}, {
+  "circulating_supply": 1328273642,
+  "h24": 29.04,
+  "h7": 21.56,
+  "market_cap": 4370782607,
+  "name": "Loopring",
+  "price": 3.27,
+  "ticker": "LRC",
+  "volume": 2659076245
+}, {
+  "circulating_supply": 4715735200,
+  "h24": 1.7,
+  "h7": -2.92,
+  "market_cap": 4305337848,
+  "name": "The Graph",
+  "price": 0.9112,
+  "ticker": "GRT",
+  "volume": 197160466
+}, {
+  "circulating_supply": 18034374,
+  "h24": -1.81,
+  "h7": -5.89,
+  "market_cap": 4193349663,
+  "name": "Monero",
+  "price": 232.47,
+  "ticker": "XMR",
+  "volume": 180012760
+}, {
+  "circulating_supply": 313098660,
+  "h24": -6.77,
+  "h7": 3.44,
+  "market_cap": 4159467443,
+  "name": "Flow",
+  "price": 13.24,
+  "ticker": "FLOW",
+  "volume": 308896530
+}, {
+  "circulating_supply": 972040646,
+  "h24": -1.3,
+  "h7": -5.23,
+  "market_cap": 4061908190,
+  "name": "EOS",
+  "price": 4.18,
+  "ticker": "EOS",
+  "volume": 902618071
+}, {
+  "circulating_supply": 2779530283,
+  "h24": -4.08,
+  "h7": -0.59,
+  "market_cap": 3971237086,
+  "name": "IOTA",
+  "price": 1.43,
+  "ticker": "MIOTA",
+  "volume": 237126799
+}, {
+  "circulating_supply": 2525000580,
+  "h24": 0.0,
+  "h7": -0.24,
+  "market_cap": 3782136758,
+  "name": "Klaytn",
+  "price": 1.5,
+  "ticker": "KLAY",
+  "volume": 147843383
+}, {
+  "circulating_supply": 243290536,
+  "h24": -1.93,
+  "h7": -12.46,
+  "market_cap": 3686817360,
+  "name": "PancakeSwap",
+  "price": 15.15,
+  "ticker": "CAKE",
+  "volume": 246826010
+}, {
+  "circulating_supply": 13392219,
+  "h24": 1.71,
+  "h7": -3.13,
+  "market_cap": 3658206426,
+  "name": "Aave",
+  "price": 272.95,
+  "ticker": "AAVE",
+  "volume": 383549355
+}, {
+  "circulating_supply": 835615660,
+  "h24": 17.82,
+  "h7": 41.23,
+  "market_cap": 3423087428,
+  "name": "Enjin Coin",
+  "price": 4.07,
+  "ticker": "ENJ",
+  "volume": 1328620034
+}, {
+  "circulating_supply": 10804078707,
+  "h24": 3.25,
+  "h7": 17.34,
+  "market_cap": 3299216541,
+  "name": "Harmony",
+  "price": 0.3054,
+  "ticker": "ONE",
+  "volume": 267297171
+}, {
+  "circulating_supply": 88674658,
+  "h24": -22.49,
+  "h7": 396671.3,
+  "market_cap": 3211675263,
+  "name": "Fountain",
+  "price": 36.22,
+  "ticker": "FTN",
+  "volume": 1208407
+}, {
+  "circulating_supply": 953954130,
+  "h24": 0.44,
+  "h7": 6.39,
+  "market_cap": 3177734429,
+  "name": "UNUS SED LEO",
+  "price": 3.33,
+  "ticker": "LEO",
+  "volume": 3005032
+}, {
+  "circulating_supply": 18904817173313,
+  "h24": -1.08,
+  "h7": -9.87,
+  "market_cap": 3064725191,
+  "name": "eCash",
+  "price": 0.0001621,
+  "ticker": "XEC",
+  "volume": 67384394
+}, {
+  "circulating_supply": 990273,
+  "h24": 4.22,
+  "h7": 7.05,
+  "market_cap": 3019598540,
+  "name": "Maker",
+  "price": 3049.26,
+  "ticker": "MKR",
+  "volume": 170865369
+}, {
+  "circulating_supply": 12072738,
+  "h24": 10.55,
+  "h7": -7.25,
+  "market_cap": 2941644003,
+  "name": "Quant",
+  "price": 243.66,
+  "ticker": "QNT",
+  "volume": 123404998
+}, {
+  "circulating_supply": 18904845,
+  "h24": -1.31,
+  "h7": -4.4,
+  "market_cap": 2940024148,
+  "name": "Bitcoin SV",
+  "price": 155.52,
+  "ticker": "BSV",
+  "volume": 154590712
+}, {
+  "circulating_supply": 13150100,
+  "h24": 4.3,
+  "h7": 27.44,
+  "market_cap": 2891253490,
+  "name": "Zcash",
+  "price": 219.87,
+  "ticker": "ZEC",
+  "volume": 855908606
+}, {
+  "circulating_supply": 8470098,
+  "h24": -2.64,
+  "h7": -10.32,
+  "market_cap": 2863938675,
+  "name": "Kusama",
+  "price": 338.12,
+  "ticker": "KSM",
+  "volume": 123006674
+}, {
+  "circulating_supply": 70538831,
+  "h24": -0.32,
+  "h7": -7.97,
+  "market_cap": 2855700824,
+  "name": "Neo",
+  "price": 40.48,
+  "ticker": "NEO",
+  "volume": 216461576
+}, {
+  "circulating_supply": 42227702186,
+  "h24": 35.17,
+  "h7": 29.63,
+  "market_cap": 2891232150,
+  "name": "Amp",
+  "price": 0.06847,
+  "ticker": "AMP",
+  "volume": 485836732
+}, {
+  "circulating_supply": 258210215,
+  "h24": -3.74,
+  "h7": -6.17,
+  "market_cap": 2712701719,
+  "name": "THORChain",
+  "price": 10.51,
+  "ticker": "RUNE",
+  "volume": 73309695
+}, {
+  "circulating_supply": 157895110,
+  "h24": -5.25,
+  "h7": -11.38,
+  "market_cap": 2710424440,
+  "name": "Kadena",
+  "price": 17.17,
+  "ticker": "KDA",
+  "volume": 66992584
+}, {
+  "circulating_supply": 1285635259,
+  "h24": -7.55,
+  "h7": -7.06,
+  "market_cap": 2642249723,
+  "name": "Stacks",
+  "price": 2.06,
+  "ticker": "STX",
+  "volume": 94408125
+}, {
+  "circulating_supply": 6977205436,
+  "h24": -8.88,
+  "h7": 196.06,
+  "market_cap": 2606980884,
+  "name": "Gala",
+  "price": 0.3733,
+  "ticker": "GALA",
+  "volume": 1224927923
+}, {
+  "circulating_supply": 5948624373,
+  "h24": -0.27,
+  "h7": -11.6,
+  "market_cap": 2601292759,
+  "name": "Chiliz",
+  "price": 0.4378,
+  "ticker": "CHZ",
+  "volume": 418398649
+}, {
+  "circulating_supply": 106773574,
+  "h24": -0.22,
+  "h7": -3.48,
+  "market_cap": 2232348917,
+  "name": "Waves",
+  "price": 20.92,
+  "ticker": "WAVES",
+  "volume": 85162551
+}, {
+  "circulating_supply": 173037114406,
+  "h24": -4.43,
+  "h7": 0.21,
+  "market_cap": 2227323954,
+  "name": "Holo",
+  "price": 0.01287,
+  "ticker": "HOT",
+  "volume": 190190393
+}, {
+  "circulating_supply": 659952625000,
+  "h24": -2.05,
+  "h7": -8.8,
+  "market_cap": 2153542690,
+  "name": "BitTorrent",
+  "price": 0.003264,
+  "ticker": "BTT",
+  "volume": 460865967
+}, {
+  "circulating_supply": 33394701,
+  "h24": -0.37,
+  "h7": 3.04,
+  "market_cap": 2052670324,
+  "name": "Arweave",
+  "price": 61.65,
+  "ticker": "AR",
+  "volume": 55777288
+}, {
+  "circulating_supply": 428744353,
+  "h24": 5.41,
+  "h7": 30.46,
+  "market_cap": 2010907038,
+  "name": "Curve DAO Token",
+  "price": 4.69,
+  "ticker": "CRV",
+  "volume": 852912030
+}, {
+  "circulating_supply": 10442850,
+  "h24": -3.74,
+  "h7": -6.26,
+  "market_cap": 1983115281,
+  "name": "Dash",
+  "price": 189.82,
+  "ticker": "DASH",
+  "volume": 431077821
+}, {
+  "circulating_supply": 80118638,
+  "h24": 0.44,
+  "h7": -2.87,
+  "market_cap": 1882600214,
+  "name": "KuCoin Token",
+  "price": 23.5,
+  "ticker": "KCS",
+  "volume": 37800978
+}, {
+  "circulating_supply": 347297758,
+  "h24": -6.81,
+  "h7": 1.68,
+  "market_cap": 1852122480,
+  "name": "Celo",
+  "price": 5.34,
+  "ticker": "CELO",
+  "volume": 78519609
+}, {
+  "circulating_supply": 9540779324,
+  "h24": -0.67,
+  "h7": -10.27,
+  "market_cap": 1818477164,
+  "name": "IoTeX",
+  "price": 0.1906,
+  "ticker": "IOTX",
+  "volume": 226629109
+}, {
+  "circulating_supply": 6018895,
+  "h24": -1.74,
+  "h7": -8.29,
+  "market_cap": 1735783722,
+  "name": "Compound",
+  "price": 287.83,
+  "ticker": "COMP",
+  "volume": 165843516
+}, {
+  "circulating_supply": 5301214400,
+  "h24": 1.99,
+  "h7": 3.39,
+  "market_cap": 1718317490,
+  "name": "Theta Fuel",
+  "price": 0.3241,
+  "ticker": "TFUEL",
+  "volume": 46687970
+}, {
+  "circulating_supply": 8999999999,
+  "h24": 0.08,
+  "h7": -3.82,
+  "market_cap": 1580998410,
+  "name": "NEM",
+  "price": 0.1757,
+  "ticker": "XEM",
+  "volume": 89180528
+}, {
+  "circulating_supply": 159308566,
+  "h24": -1.74,
+  "h7": -7.06,
+  "market_cap": 1574403859,
+  "name": "Huobi Token",
+  "price": 9.89,
+  "ticker": "HT",
+  "volume": 73984540
+}, {
+  "circulating_supply": 1492497100,
+  "h24": -2.69,
+  "h7": -1.77,
+  "market_cap": 1549299724,
+  "name": "Basic Attention Token",
+  "price": 1.04,
+  "ticker": "BAT",
+  "volume": 183460623
+}, {
+  "circulating_supply": 560000011,
+  "h24": -1.6,
+  "h7": -18.5,
+  "market_cap": 1541727336,
+  "name": "Nexo",
+  "price": 2.76,
+  "ticker": "NEXO",
+  "volume": 12781521
+}, {
+  "circulating_supply": 188160768,
+  "h24": 9.28,
+  "h7": 42.27,
+  "market_cap": 1519866092,
+  "name": "Immutable X",
+  "price": 8.08,
+  "ticker": "IMX",
+  "volume": 109050916
+}, {
+  "circulating_supply": 60000000,
+  "h24": 1.39,
+  "h7": -4.96,
+  "market_cap": 1463857609,
+  "name": "OKB",
+  "price": 24.4,
+  "ticker": "OKB",
+  "volume": 300326938
+}, {
+  "circulating_supply": 98886201,
+  "h24": -1.56,
+  "h7": -4.78,
+  "market_cap": 1463136122,
+  "name": "Qtum",
+  "price": 14.77,
+  "ticker": "QTUM",
+  "volume": 308982338
+}, {
+  "circulating_supply": 13523477,
+  "h24": -1.96,
+  "h7": -1.78,
+  "market_cap": 1462161719,
+  "name": "Decred",
+  "price": 108.28,
+  "ticker": "DCR",
+  "volume": 10096233
+}, {
+  "circulating_supply": 3493014306,
+  "h24": 11.59,
+  "h7": 96.53,
+  "market_cap": 1451854616,
+  "name": "Oasis Network",
+  "price": 0.4156,
+  "ticker": "ROSE",
+  "volume": 499774990
+}, {
+  "circulating_supply": 675870005,
+  "h24": -7.03,
+  "h7": -13.47,
+  "market_cap": 1434377233,
+  "name": "ICON",
+  "price": 2.12,
+  "ticker": "ICX",
+  "volume": 210967432
+}, {
+  "circulating_supply": 1847528898,
+  "h24": -3.98,
+  "h7": -4.7,
+  "market_cap": 1408402660,
+  "name": "WAX",
+  "price": 0.7623,
+  "ticker": "WAXP",
+  "volume": 244311627
+}, {
+  "circulating_supply": 301349467,
+  "h24": 2.08,
+  "h7": -5.06,
+  "market_cap": 1375899319,
+  "name": "Mina",
+  "price": 4.57,
+  "ticker": "MINA",
+  "volume": 87381787
+}, {
+  "circulating_supply": 278482214,
+  "h24": -2.37,
+  "h7": 75.24,
+  "market_cap": 1367152029,
+  "name": "Voyager Token",
+  "price": 4.91,
+  "ticker": "VGX",
+  "volume": 150643460
+}, {
+  "circulating_supply": 140245398,
+  "h24": -0.85,
+  "h7": -11.57,
+  "market_cap": 1286723432,
+  "name": "OMG Network",
+  "price": 9.17,
+  "ticker": "OMG",
+  "volume": 593028419
+}, {
+  "circulating_supply": 11769419,
+  "h24": 6.18,
+  "h7": 26.05,
+  "market_cap": 1278909440,
+  "name": "Horizen",
+  "price": 108.66,
+  "ticker": "ZEN",
+  "volume": 129546094
+}, {
+  "circulating_supply": 1261246961,
+  "h24": -0.02,
+  "h7": -0.04,
+  "market_cap": 1261063800,
+  "name": "TrueUSD",
+  "price": 0.9996,
+  "ticker": "TUSD",
+  "volume": 152800161
+}, {
+  "circulating_supply": 504078968,
+  "h24": 14.14,
+  "h7": 10.62,
+  "market_cap": 1208039066,
+  "name": "Audius",
+  "price": 2.4,
+  "ticker": "AUDIO",
+  "volume": 126842183
+}, {
+  "circulating_supply": 12305012699,
+  "h24": 8.16,
+  "h7": 9.11,
+  "market_cap": 1179193029,
+  "name": "XDC Network",
+  "price": 0.09609,
+  "ticker": "XDC",
+  "volume": 7788961
+}, {
+  "circulating_supply": 36638,
+  "h24": -0.37,
+  "h7": 3.24,
+  "market_cap": 1172745592,
+  "name": "yearn.finance",
+  "price": 31994.65,
+  "ticker": "YFI",
+  "volume": 187731600
+}, {
+  "circulating_supply": 10150065000,
+  "h24": -2.32,
+  "h7": -1.65,
+  "market_cap": 1168283035,
+  "name": "Ravencoin",
+  "price": 0.1149,
+  "ticker": "RVN",
+  "volume": 48972775
+}, {
+  "circulating_supply": 149815729,
+  "h24": -1.96,
+  "h7": 12.91,
+  "market_cap": 1164205469,
+  "name": "Secret",
+  "price": 7.78,
+  "ticker": "SCRT",
+  "volume": 17517797
+}, {
+  "circulating_supply": 21164655,
+  "h24": 7.27,
+  "h7": -13.18,
+  "market_cap": 1121612959,
+  "name": "Livepeer",
+  "price": 52.99,
+  "ticker": "LPT",
+  "volume": 70787522
+}, {
+  "circulating_supply": 85061485690,
+  "h24": -1.55,
+  "h7": -13.78,
+  "market_cap": 1107388557,
+  "name": "Revain",
+  "price": 0.01306,
+  "ticker": "REV",
+  "volume": 3470340
+}, {
+  "circulating_supply": 127244443,
+  "h24": 1.9,
+  "h7": -11.16,
+  "market_cap": 1093533775,
+  "name": "SushiSwap",
+  "price": 8.59,
+  "ticker": "SUSHI",
+  "volume": 243835782
+}, {
+  "circulating_supply": 12038849418,
+  "h24": 0.03,
+  "h7": -4.52,
+  "market_cap": 1086976524,
+  "name": "Zilliqa",
+  "price": 0.09029,
+  "ticker": "ZIL",
+  "volume": 64745127
+}, {
+  "circulating_supply": 68700000,
+  "h24": -1.21,
+  "h7": -0.98,
+  "market_cap": 1044939443,
+  "name": "Perpetual Protocol",
+  "price": 15.21,
+  "ticker": "PERP",
+  "volume": 36724205
+}, {
+  "circulating_supply": 8162899378,
+  "h24": -3.15,
+  "h7": -0.7,
+  "market_cap": 1024909787,
+  "name": "Ankr",
+  "price": 0.1256,
+  "ticker": "ANKR",
+  "volume": 119525166
+}, {
+  "circulating_supply": 17513924,
+  "h24": -0.92,
+  "h7": -7.12,
+  "market_cap": 1006814728,
+  "name": "Bitcoin Gold",
+  "price": 57.49,
+  "ticker": "BTG",
+  "volume": 18568356
+}, {
+  "circulating_supply": 49413922992,
+  "h24": -4.36,
+  "h7": 8.18,
+  "market_cap": 1000243519,
+  "name": "Siacoin",
+  "price": 0.02024,
+  "ticker": "SC",
+  "volume": 68770575
+}, {
+  "circulating_supply": 861250000,
+  "h24": 8.89,
+  "h7": 27.55,
+  "market_cap": 997451849,
+  "name": "BORA",
+  "price": 1.16,
+  "ticker": "BORA",
+  "volume": 548936429
+}, {
+  "circulating_supply": 17147,
+  "h24": -1.47,
+  "h7": -5.27,
+  "market_cap": 971645316,
+  "name": "renBTC",
+  "price": 56664.64,
+  "ticker": "RENBTC",
+  "volume": 35852832
+}, {
+  "circulating_supply": 2124380663,
+  "h24": -0.05,
+  "h7": 21.16,
+  "market_cap": 965550672,
+  "name": "Velas",
+  "price": 0.4545,
+  "ticker": "VLX",
+  "volume": 21355803
+}, {
+  "circulating_supply": 238863520,
+  "h24": -0.28,
+  "h7": -8.7,
+  "market_cap": 963918817,
+  "name": "Celsius",
+  "price": 4.04,
+  "ticker": "CEL",
+  "volume": 5803363
+}, {
+  "circulating_supply": 234034441,
+  "h24": 2.28,
+  "h7": -2.36,
+  "market_cap": 960480391,
+  "name": "Bancor",
+  "price": 4.1,
+  "ticker": "BNT",
+  "volume": 45452318
+}, {
+  "circulating_supply": 63809056,
+  "h24": -3.62,
+  "h7": -23.98,
+  "market_cap": 953526218,
+  "name": "UMA",
+  "price": 14.94,
+  "ticker": "UMA",
+  "volume": 67271978
+}, {
+  "circulating_supply": 945642940,
+  "h24": -0.02,
+  "h7": -0.02,
+  "market_cap": 945330336,
+  "name": "Pax Dollar",
+  "price": 0.9997,
+  "ticker": "USDP",
+  "volume": 14643023
+}, {
+  "circulating_supply": 845496055,
+  "h24": 1.11,
+  "h7": -1.75,
+  "market_cap": 944755758,
+  "name": "0x",
+  "price": 1.12,
+  "ticker": "ZRX",
+  "volume": 99090053
+}, {
+  "circulating_supply": 114841533,
+  "h24": -2.06,
+  "h7": -9.93,
+  "market_cap": 934713082,
+  "name": "Synthetix",
+  "price": 8.14,
+  "ticker": "SNX",
+  "volume": 109602090
+}, {
+  "circulating_supply": 2381601,
+  "h24": -0.44,
+  "h7": 7.27,
+  "market_cap": 934613947,
+  "name": "Moonriver",
+  "price": 392.43,
+  "ticker": "MOVR",
+  "volume": 41701337
+}, {
+  "circulating_supply": 997764051,
+  "h24": 20.0,
+  "h7": 12.66,
+  "market_cap": 927574303,
+  "name": "Ren",
+  "price": 0.9297,
+  "ticker": "REN",
+  "volume": 151820823
+}, {
+  "circulating_supply": 55027110195,
+  "h24": -1.56,
+  "h7": -12.2,
+  "market_cap": 911944957,
+  "name": "Telcoin",
+  "price": 0.01657,
+  "ticker": "TEL",
+  "volume": 14573864
+}, {
+  "circulating_supply": 56337466,
+  "h24": 8.41,
+  "h7": 24.37,
+  "market_cap": 891493713,
+  "name": "dYdX",
+  "price": 15.82,
+  "ticker": "DYDX",
+  "volume": 551534716
+}, {
+  "circulating_supply": 875249524,
+  "h24": 1.24,
+  "h7": -3.17,
+  "market_cap": 858501984,
+  "name": "Ontology",
+  "price": 0.9809,
+  "ticker": "ONT",
+  "volume": 140796471
+}, {
+  "circulating_supply": 555841793004366,
+  "h24": -4.51,
+  "h7": -0.86,
+  "market_cap": 857263075,
+  "name": "Dogelon Mars",
+  "price": 0.000001542,
+  "ticker": "ELON",
+  "volume": 47006060
+}, {
+  "circulating_supply": 2377675822,
+  "h24": 3.25,
+  "h7": 5.44,
+  "market_cap": 846919826,
+  "name": "SKALE Network",
+  "price": 0.3562,
+  "ticker": "SKL",
+  "volume": 59679421
+}, {
+  "circulating_supply": 961737300000,
+  "h24": -3.55,
+  "h7": -10.62,
+  "market_cap": 779616081,
+  "name": "WINkLink",
+  "price": 0.0008106,
+  "ticker": "WIN",
+  "volume": 141133068
+}, {
+  "circulating_supply": 12844821266,
+  "h24": 11.36,
+  "h7": 1.75,
+  "market_cap": 775638404,
+  "name": "XYO",
+  "price": 0.06052,
+  "ticker": "XYO",
+  "volume": 56650588
+}, {
+  "circulating_supply": 18099719631,
+  "h24": -1.3,
+  "h7": -6.33,
+  "market_cap": 772143197,
+  "name": "IOST",
+  "price": 0.04266,
+  "ticker": "IOST",
+  "volume": 54287899
+}, {
+  "circulating_supply": 14866410245,
+  "h24": 0.46,
+  "h7": -5.01,
+  "market_cap": 771217030,
+  "name": "DigiByte",
+  "price": 0.05188,
+  "ticker": "DGB",
+  "volume": 28445465
+}, {
+  "circulating_supply": 133231781,
+  "h24": -2.1,
+  "h7": -10.73,
+  "market_cap": 768580428,
+  "name": "Serum",
+  "price": 5.77,
+  "ticker": "SRM",
+  "volume": 92205380
+}, {
+  "circulating_supply": 76341914,
+  "h24": 0.41,
+  "h7": -3.77,
+  "market_cap": 767061755,
+  "name": "Raydium",
+  "price": 10.05,
+  "ticker": "RAY",
+  "volume": 95627203
+}, {
+  "circulating_supply": 6076711958,
+  "h24": -5.28,
+  "h7": 20.6,
+  "market_cap": 766939066,
+  "name": "Celer Network",
+  "price": 0.1264,
+  "ticker": "CELR",
+  "volume": 203524245
+}, {
+  "circulating_supply": 141680595,
+  "h24": 3.99,
+  "h7": 1.74,
+  "market_cap": 756690095,
+  "name": "Kava",
+  "price": 5.34,
+  "ticker": "KAVA",
+  "volume": 99377339
+}, {
+  "circulating_supply": 1000000000,
+  "h24": -3.61,
+  "h7": 6.1,
+  "market_cap": 756346630,
+  "name": "SwissBorg",
+  "price": 0.7583,
+  "ticker": "CHSB",
+  "volume": 2744189
+}, {
+  "circulating_supply": 567369439,
+  "h24": 4.88,
+  "h7": 18.89,
+  "market_cap": 747106309,
+  "name": "Chromia",
+  "price": 1.32,
+  "ticker": "CHR",
+  "volume": 294558016
+}, {
+  "circulating_supply": 1803621221,
+  "h24": 1.02,
+  "h7": 1.85,
+  "market_cap": 720075368,
+  "name": "1inch Network",
+  "price": 3.97,
+  "ticker": "1INCH",
+  "volume": 145447389
+}, {
+  "circulating_supply": 28684378699,
+  "h24": -0.7,
+  "h7": -5.81,
+  "market_cap": 718185576,
+  "name": "Nervos Network",
+  "price": 0.02504,
+  "ticker": "CKB",
+  "volume": 24736719
+}, {
+  "circulating_supply": 266596290,
+  "h24": -7.04,
+  "h7": 42.1,
+  "market_cap": 716290302,
+  "name": "Dvision Network",
+  "price": 2.69,
+  "ticker": "DVI",
+  "volume": 44786518
+}, {
+  "circulating_supply": 564380334,
+  "h24": -3.27,
+  "h7": -21.68,
+  "market_cap": 714102514,
+  "name": "WOO Network",
+  "price": 1.27,
+  "ticker": "WOO",
+  "volume": 32800798
+}, {
+  "circulating_supply": 133248297,
+  "h24": 0.41,
+  "h7": -6.08,
+  "market_cap": 708347390,
+  "name": "Nano",
+  "price": 5.32,
+  "ticker": "NANO",
+  "volume": 23513024
+}, {
+  "circulating_supply": 30600000,
+  "h24": 25.64,
+  "h7": 75.01,
+  "market_cap": 695231148,
+  "name": "MyNeighborAlice",
+  "price": 22.72,
+  "ticker": "ALICE",
+  "volume": 884829141
+}, {
+  "circulating_supply": 613099141,
+  "h24": 16.63,
+  "h7": 34.25,
+  "market_cap": 694719717,
+  "name": "Ocean Protocol",
+  "price": 1.13,
+  "ticker": "OCEAN",
+  "volume": 173997100
+}, {
+  "circulating_supply": 351431757,
+  "h24": -1.71,
+  "h7": 20.19,
+  "market_cap": 688282072,
+  "name": "Storj",
+  "price": 1.96,
+  "ticker": "STORJ",
+  "volume": 132193452
+}, {
+  "circulating_supply": 898550830,
+  "h24": 0.05,
+  "h7": -8.1,
+  "market_cap": 655202842,
+  "name": "Polymath",
+  "price": 0.7292,
+  "ticker": "POLY",
+  "volume": 79092877
+}, {
+  "circulating_supply": 874608082,
+  "h24": -4.74,
+  "h7": -1.3,
+  "market_cap": 633937627,
+  "name": "DigitalBits",
+  "price": 0.7248,
+  "ticker": "XDB",
+  "volume": 3165427
+}, {
+  "circulating_supply": 1504587,
+  "h24": 4.57,
+  "h7": 2.05,
+  "market_cap": 630281081,
+  "name": "Gnosis",
+  "price": 418.91,
+  "ticker": "GNO",
+  "volume": 8337218
+}, {
+  "circulating_supply": 737545460,
+  "h24": 16.71,
+  "h7": 47.25,
+  "market_cap": 626797711,
+  "name": "CEEK VR",
+  "price": 0.8498,
+  "ticker": "CEEK",
+  "volume": 32409538
+}, {
+  "circulating_supply": 363853921,
+  "h24": 1.27,
+  "h7": -4.41,
+  "market_cap": 621684609,
+  "name": "OriginTrail",
+  "price": 1.71,
+  "ticker": "TRAC",
+  "volume": 8866912
+}, {
+  "circulating_supply": 746113681,
+  "h24": -3.75,
+  "h7": 6.88,
+  "market_cap": 621177669,
+  "name": "Fetch.ai",
+  "price": 0.8326,
+  "ticker": "FET",
+  "volume": 74488984
+}, {
+  "circulating_supply": 782441623,
+  "h24": -5.48,
+  "h7": -5.78,
+  "market_cap": 603248293,
+  "name": "Mdex",
+  "price": 0.771,
+  "ticker": "MDX",
+  "volume": 26362647
+}, {
+  "circulating_supply": 695250000,
+  "h24": -2.32,
+  "h7": -5.41,
+  "market_cap": 582794585,
+  "name": "NuCypher",
+  "price": 0.8383,
+  "ticker": "NU",
+  "volume": 64989295
+}, {
+  "circulating_supply": 99007791203,
+  "h24": -0.72,
+  "h7": -12.47,
+  "market_cap": 563227354,
+  "name": "Dent",
+  "price": 0.005689,
+  "ticker": "DENT",
+  "volume": 49202444
+}, {
+  "circulating_supply": 282785230,
+  "h24": 15.69,
+  "h7": 78.85,
+  "market_cap": 563124492,
+  "name": "Ultra",
+  "price": 1.99,
+  "ticker": "UOS",
+  "volume": 40270034
+}, {
+  "circulating_supply": 572665289,
+  "h24": -0.09,
+  "h7": -0.37,
+  "market_cap": 561577892,
+  "name": "Neutrino USD",
+  "price": 0.9806,
+  "ticker": "USDN",
+  "volume": 8668642
+}, {
+  "circulating_supply": 43655553,
+  "h24": 1.88,
+  "h7": 10.08,
+  "market_cap": 559025217,
+  "name": "Injective Protocol",
+  "price": 12.81,
+  "ticker": "INJ",
+  "volume": 54777205
+}, {
+  "circulating_supply": 1000000000,
+  "h24": 0.25,
+  "h7": 5.16,
+  "market_cap": 556336057,
+  "name": "Golem",
+  "price": 0.5563,
+  "ticker": "GLM",
+  "volume": 35103213
+}, {
+  "circulating_supply": 77792870,
+  "h24": -0.32,
+  "h7": -1.23,
+  "market_cap": 484915754,
+  "name": "GateToken",
+  "price": 6.23,
+  "ticker": "GT",
+  "volume": 8467861
+}, {
+  "circulating_supply": 475920031,
+  "h24": 6.67,
+  "h7": 3.04,
+  "market_cap": 484782937,
+  "name": "Cartesi",
+  "price": 1.02,
+  "ticker": "CTSI",
+  "volume": 80612678
+}, {
+  "circulating_supply": 13159998943,
+  "h24": 2.0,
+  "h7": -5.23,
+  "market_cap": 478527550,
+  "name": "Reserve Rights",
+  "price": 0.03636,
+  "ticker": "RSR",
+  "volume": 32410473
+}, {
+  "circulating_supply": 389049618,
+  "h24": 9.45,
+  "h7": 17.17,
+  "market_cap": 472566225,
+  "name": "Hive",
+  "price": 1.21,
+  "ticker": "HIVE",
+  "volume": 119340896
+}, {
+  "circulating_supply": 192768789,
+  "h24": -2.79,
+  "h7": -9.96,
+  "market_cap": 471280494,
+  "name": "Swipe",
+  "price": 2.44,
+  "ticker": "SXP",
+  "volume": 139364328
+}, {
+  "circulating_supply": 128900445,
+  "h24": -1.01,
+  "h7": 4.46,
+  "market_cap": 450631906,
+  "name": "Lisk",
+  "price": 3.5,
+  "ticker": "LSK",
+  "volume": 11426517
+}, {
+  "circulating_supply": 15973552172,
+  "h24": -2.5,
+  "h7": -9.4,
+  "market_cap": 431198347,
+  "name": "Reef",
+  "price": 0.02699,
+  "ticker": "REEF",
+  "volume": 61881592
+}, {
+  "circulating_supply": 2539620077,
+  "h24": -0.1,
+  "h7": 15.59,
+  "market_cap": 424768744,
+  "name": "Casper",
+  "price": 0.1673,
+  "ticker": "CSPR",
+  "volume": 87230350
+}, {
+  "circulating_supply": 424996178,
+  "h24": -0.05,
+  "h7": -0.11,
+  "market_cap": 424113536,
+  "name": "Fei USD",
+  "price": 0.9979,
+  "ticker": "FEI",
+  "volume": 123467113
+}, {
+  "circulating_supply": 446330126,
+  "h24": -1.15,
+  "h7": -9.77,
+  "market_cap": 420327661,
+  "name": "Alpha Finance Lab",
+  "price": 0.9417,
+  "ticker": "ALPHA",
+  "volume": 20291846
+}, {
+  "circulating_supply": 16456958844,
+  "h24": -3.85,
+  "h7": -8.56,
+  "market_cap": 419734093,
+  "name": "Verge",
+  "price": 0.0255,
+  "ticker": "XVG",
+  "volume": 21923053
+}, {
+  "circulating_supply": 408520357,
+  "h24": -1.05,
+  "h7": -9.32,
+  "market_cap": 412845791,
+  "name": "Function X",
+  "price": 1.01,
+  "ticker": "FX",
+  "volume": 2985287
+}, {
+  "circulating_supply": 700000000,
+  "h24": 5.09,
+  "h7": -3.29,
+  "market_cap": 396532895,
+  "name": "NKN",
+  "price": 0.5665,
+  "ticker": "NKN",
+  "volume": 25084266
+}, {
+  "circulating_supply": 388570733,
+  "h24": -4.03,
+  "h7": 2.63,
+  "market_cap": 396279864,
+  "name": "Origin Protocol",
+  "price": 1.02,
+  "ticker": "OGN",
+  "volume": 65409462
+}, {
+  "circulating_supply": 317846918,
+  "h24": -2.94,
+  "h7": -11.36,
+  "market_cap": 392945841,
+  "name": "WazirX",
+  "price": 1.24,
+  "ticker": "WRX",
+  "volume": 49928326
+}, {
+  "circulating_supply": 42552071894,
+  "h24": -4.25,
+  "h7": -2.31,
+  "market_cap": 390438627,
+  "name": "VeThor Token",
+  "price": 0.009176,
+  "ticker": "VTHO",
+  "volume": 37619659
+}, {
+  "circulating_supply": 5382401140,
+  "h24": -1.73,
+  "h7": 0.54,
+  "market_cap": 379941562,
+  "name": "MediBloc",
+  "price": 0.07059,
+  "ticker": "MED",
+  "volume": 32895411
+}, {
+  "circulating_supply": 868672118,
+  "h24": 2.63,
+  "h7": -5.15,
+  "market_cap": 377889337,
+  "name": "COTI",
+  "price": 0.435,
+  "ticker": "COTI",
+  "volume": 46095672
+}, {
+  "circulating_supply": 193529487,
+  "h24": 0.46,
+  "h7": -0.07,
+  "market_cap": 371190539,
+  "name": "BakeryToken",
+  "price": 1.92,
+  "ticker": "BAKE",
+  "volume": 67874736
+}, {
+  "circulating_supply": 11421013,
+  "h24": -4.26,
+  "h7": -5.19,
+  "market_cap": 370484300,
+  "name": "Bitcoin Standard Hashrate Token",
+  "price": 32.44,
+  "ticker": "BTCST",
+  "volume": 15297340
+}, {
+  "circulating_supply": 690690084,
+  "h24": 0.05,
+  "h7": -11.19,
+  "market_cap": 356083409,
+  "name": "Orchid",
+  "price": 0.5155,
+  "ticker": "OXT",
+  "volume": 77298443
+}, {
+  "circulating_supply": 622884163,
+  "h24": 8.3,
+  "h7": 24.51,
+  "market_cap": 351286727,
+  "name": "Syscoin",
+  "price": 0.564,
+  "ticker": "SYS",
+  "volume": 33458801
+}, {
+  "circulating_supply": 670000000,
+  "h24": -8.14,
+  "h7": 12.5,
+  "market_cap": 350324381,
+  "name": "Civic",
+  "price": 0.5229,
+  "ticker": "CVC",
+  "volume": 142528683
+}, {
+  "circulating_supply": 462136097,
+  "h24": 2.38,
+  "h7": 5.93,
+  "market_cap": 350258250,
+  "name": "Powerledger",
+  "price": 0.7579,
+  "ticker": "POWR",
+  "volume": 205549147
+}, {
+  "circulating_supply": 219863292,
+  "h24": -8.72,
+  "h7": -25.75,
+  "market_cap": 344808276,
+  "name": "Flux",
+  "price": 1.57,
+  "ticker": "FLUX",
+  "volume": 13929953
+}, {
+  "circulating_supply": 186492898,
+  "h24": -0.87,
+  "h7": -2.29,
+  "market_cap": 343979818,
+  "name": "Bitcoin Diamond",
+  "price": 1.84,
+  "ticker": "BCD",
+  "volume": 4176843
+}, {
+  "circulating_supply": 1148967255,
+  "h24": -5.98,
+  "h7": 4.5,
+  "market_cap": 338208767,
+  "name": "Conflux",
+  "price": 0.2944,
+  "ticker": "CFX",
+  "volume": 16163227
+}, {
+  "circulating_supply": 998999495,
+  "h24": 1.37,
+  "h7": -3.68,
+  "market_cap": 326629171,
+  "name": "Ardor",
+  "price": 0.327,
+  "ticker": "ARDR",
+  "volume": 17205370
+}, {
+  "circulating_supply": 80070793,
+  "h24": -0.78,
+  "h7": -3.0,
+  "market_cap": 322150948,
+  "name": "iExec RLC",
+  "price": 4.02,
+  "ticker": "RLC",
+  "volume": 18171879
+}, {
+  "circulating_supply": 3470483788,
+  "h24": -3.01,
+  "h7": 0.26,
+  "market_cap": 313874275,
+  "name": "Status",
+  "price": 0.09045,
+  "ticker": "SNT",
+  "volume": 16908757
+}, {
+  "circulating_supply": 86862963,
+  "h24": 7.27,
+  "h7": 16.49,
+  "market_cap": 312821056,
+  "name": "TomoChain",
+  "price": 3.6,
+  "ticker": "TOMO",
+  "volume": 72557563
+}, {
+  "circulating_supply": 174031,
+  "h24": -1.88,
+  "h7": -3.88,
+  "market_cap": 311671902,
+  "name": "PAX Gold",
+  "price": 1790.9,
+  "ticker": "PAXG",
+  "volume": 41430144
+}, {
+  "circulating_supply": 11517192,
+  "h24": 6.11,
+  "h7": 11.9,
+  "market_cap": 310858126,
+  "name": "Venus",
+  "price": 26.99,
+  "ticker": "XVS",
+  "volume": 95870811
+}, {
+  "circulating_supply": 266077326,
+  "h24": -3.28,
+  "h7": -0.61,
+  "market_cap": 304344202,
+  "name": "Ontology Gas",
+  "price": 1.14,
+  "ticker": "ONG",
+  "volume": 11923446
+}, {
+  "circulating_supply": 10000000000,
+  "h24": -0.89,
+  "h7": 1.71,
+  "market_cap": 302486084,
+  "name": "StormX",
+  "price": 0.03025,
+  "ticker": "STMX",
+  "volume": 20848378
+}, {
+  "circulating_supply": 292292500,
+  "h24": 0.0,
+  "h7": 0.01,
+  "market_cap": 292275956,
+  "name": "HUSD",
+  "price": 0.9999,
+  "ticker": "HUSD",
+  "volume": 169026499
+}, {
+  "circulating_supply": 660615274,
+  "h24": -2.28,
+  "h7": -3.55,
+  "market_cap": 289653422,
+  "name": "ASD",
+  "price": 0.4385,
+  "ticker": "ASD",
+  "volume": 1526977
+}, {
+  "circulating_supply": 11158228,
+  "h24": -2.41,
+  "h7": -11.87,
+  "market_cap": 288701930,
+  "name": "Badger DAO",
+  "price": 25.87,
+  "ticker": "BADGER",
+  "volume": 20983810
+}, {
+  "circulating_supply": 544480200,
+  "h24": -2.16,
+  "h7": -6.33,
+  "market_cap": 281746095,
+  "name": "aelf",
+  "price": 0.5175,
+  "ticker": "ELF",
+  "volume": 21433984
+}, {
+  "circulating_supply": 100000000,
+  "h24": 4.7,
+  "h7": 16.06,
+  "market_cap": 280751565,
+  "name": "MX Token",
+  "price": 2.81,
+  "ticker": "MX",
+  "volume": 19520935
+}, {
+  "circulating_supply": 917779380,
+  "h24": 0.8,
+  "h7": 38.64,
+  "market_cap": 278637314,
+  "name": "ABBC Coin",
+  "price": 0.3033,
+  "ticker": "ABBC",
+  "volume": 84699230
+}, {
+  "circulating_supply": 2229950518,
+  "h24": -3.38,
+  "h7": 0.49,
+  "market_cap": 278128400,
+  "name": "Orbs",
+  "price": 0.1247,
+  "ticker": "ORBS",
+  "volume": 16345141
+}, {
+  "circulating_supply": 16450000,
+  "h24": -2.35,
+  "h7": -3.37,
+  "market_cap": 271905959,
+  "name": "Prometeus",
+  "price": 16.53,
+  "ticker": "PROM",
+  "volume": 11743753
+}, {
+  "circulating_supply": 30062138,
+  "h24": -0.16,
+  "h7": -7.06,
+  "market_cap": 270866345,
+  "name": "Energy Web Token",
+  "price": 8.98,
+  "ticker": "EWT",
+  "volume": 2330004
+}, {
+  "circulating_supply": 173411074413,
+  "h24": 0.09,
+  "h7": -11.63,
+  "market_cap": 32473668247,
+  "name": "HEX",
+  "price": 0.1873,
+  "ticker": "HEX",
+  "volume": 15191237
+}, {
+  "circulating_supply": 1495728,
+  "h24": 2.13,
+  "h7": 0.45,
+  "market_cap": 6436114507,
+  "name": "Lido stETH",
+  "price": 4303.0,
+  "ticker": "STETH",
+  "volume": 14570441
+}, {
+  "circulating_supply": 5793286,
+  "h24": 3.78,
+  "h7": 0.78,
+  "market_cap": 3447036034,
+  "name": "Wrapped BNB",
+  "price": 595.01,
+  "ticker": "WBNB",
+  "volume": 2138567117
+}, {
+  "circulating_supply": 123233682,
+  "h24": -0.55,
+  "h7": 50.94,
+  "market_cap": 2671691773,
+  "name": "WEMIX",
+  "price": 21.68,
+  "ticker": "WEMIX",
+  "volume": 484863686
+}, {
+  "circulating_supply": 39884,
+  "h24": -1.23,
+  "h7": -5.98,
+  "market_cap": 2279421543,
+  "name": "Huobi BTC",
+  "price": 57151.16,
+  "ticker": "HBTC",
+  "volume": 9469031
+}, {
+  "circulating_supply": 5582460005,
+  "h24": -11.63,
+  "h7": 15.05,
+  "market_cap": 2194709622,
+  "name": "Symbol",
+  "price": 0.3931,
+  "ticker": "XYM",
+  "volume": 59318713
+}, {
+  "circulating_supply": 6722234242,
+  "h24": 10.75,
+  "h7": 22.57,
+  "market_cap": 1908441046,
+  "name": "yOUcash",
+  "price": 0.2839,
+  "ticker": "YOUC",
+  "volume": 668131
+}, {
+  "circulating_supply": 585536366402812,
+  "h24": 3.91,
+  "h7": -2.43,
+  "market_cap": 1896852284,
+  "name": "SafeMoon",
+  "price": 0.00000324,
+  "ticker": "SAFEMOON",
+  "volume": 10149935
+}, {
+  "circulating_supply": 5975799,
+  "h24": 4.14,
+  "h7": 54.56,
+  "market_cap": 1811321014,
+  "name": "LINK",
+  "price": 303.11,
+  "ticker": "LN",
+  "volume": 32463282
+}, {
+  "circulating_supply": 586278943,
+  "h24": -0.41,
+  "h7": -0.93,
+  "market_cap": 1491493747,
+  "name": "BitDAO",
+  "price": 2.54,
+  "ticker": "BIT",
+  "volume": 146906006
+}, {
+  "circulating_supply": 181850767347,
+  "h24": 0.44,
+  "h7": -20.26,
+  "market_cap": 1448302157,
+  "name": "Radio Caca",
+  "price": 0.007964,
+  "ticker": "RACA",
+  "volume": 207278151
+}, {
+  "circulating_supply": 564970555,
+  "h24": -2.32,
+  "h7": -10.07,
+  "market_cap": 1399986935,
+  "name": "Creditcoin",
+  "price": 2.48,
+  "ticker": "CTC",
+  "volume": 4645826
+}, {
+  "circulating_supply": 171972815,
+  "h24": 10.5,
+  "h7": 66.43,
+  "market_cap": 1267899532,
+  "name": "Render Token",
+  "price": 7.37,
+  "ticker": "RNDR",
+  "volume": 83989738
+}, {
+  "circulating_supply": 1124074682,
+  "h24": -0.04,
+  "h7": -0.64,
+  "market_cap": 1126049898,
+  "name": "Frax",
+  "price": 1.0,
+  "ticker": "FRAX",
+  "volume": 37125173
+}, {
+  "circulating_supply": 166285821196,
+  "h24": -0.82,
+  "h7": -1.69,
+  "market_cap": 1123983525,
+  "name": "ECOMI",
+  "price": 0.006759,
+  "ticker": "OMI",
+  "volume": 9359543
+}, {
+  "circulating_supply": 1969753448,
+  "h24": 1.23,
+  "h7": -2.43,
+  "market_cap": 1070212422,
+  "name": "Rally",
+  "price": 0.5433,
+  "ticker": "RLY",
+  "volume": 5989183
+}, {
+  "circulating_supply": 84327095,
+  "h24": 4.16,
+  "h7": 1.25,
+  "market_cap": 1064882543,
+  "name": "Venus BNB",
+  "price": 12.63,
+  "ticker": "vBNB",
+  "volume": 0
+}, {
+  "circulating_supply": 104789399,
+  "h24": -9.58,
+  "h7": -13.75,
+  "market_cap": 970359312,
+  "name": "The Transfer Token",
+  "price": 9.26,
+  "ticker": "TTT",
+  "volume": 492831
+}, {
+  "circulating_supply": 17860247,
+  "h24": 2.24,
+  "h7": 0.33,
+  "market_cap": 959528118,
+  "name": "Counos X",
+  "price": 53.72,
+  "ticker": "CCXX",
+  "volume": 1148924
+}, {
+  "circulating_supply": 20244862,
+  "h24": 10.12,
+  "h7": -9.47,
+  "market_cap": 957824378,
+  "name": "Ethereum Name Service",
+  "price": 47.31,
+  "ticker": "ENS",
+  "volume": 250537358
+}, {
+  "circulating_supply": 6613001,
+  "h24": 2.3,
+  "h7": -13.01,
+  "market_cap": 950299738,
+  "name": "NXM",
+  "price": 143.7,
+  "ticker": "NXM",
+  "volume": 18900
+}, {
+  "circulating_supply": 4754930780,
+  "h24": -4.32,
+  "h7": 24.75,
+  "market_cap": 943275149,
+  "name": "JasmyCoin",
+  "price": 0.1984,
+  "ticker": "JASMY",
+  "volume": 404764783
+}, {
+  "circulating_supply": 60000000,
+  "h24": -0.52,
+  "h7": -51.19,
+  "market_cap": 924019218,
+  "name": "Alitas",
+  "price": 15.4,
+  "ticker": "ALT",
+  "volume": 5729584
+}, {
+  "circulating_supply": 300511840,
+  "h24": -0.32,
+  "h7": -6.44,
+  "market_cap": 906888230,
+  "name": "DeFiChain",
+  "price": 3.02,
+  "ticker": "DFI",
+  "volume": 3505691
+}, {
+  "circulating_supply": 8338704276,
+  "h24": 1.52,
+  "h7": 31.83,
+  "market_cap": 890728034,
+  "name": "Bloktopia",
+  "price": 0.1068,
+  "ticker": "BLOK",
+  "volume": 55899692
+}, {
+  "circulating_supply": 37231499,
+  "h24": 2.04,
+  "h7": -8.91,
+  "market_cap": 884395932,
+  "name": "Convex Finance",
+  "price": 23.75,
+  "ticker": "CVX",
+  "volume": 17973623
+}, {
+  "circulating_supply": 74218324,
+  "h24": -2.01,
+  "h7": -4.23,
+  "market_cap": 871526293,
+  "name": "MobileCoin",
+  "price": 11.74,
+  "ticker": "MOB",
+  "volume": 4044277
+}, {
+  "circulating_supply": 381260670393023,
+  "h24": -1.08,
+  "h7": 3.61,
+  "market_cap": 764164479,
+  "name": "YooShi",
+  "price": 0.000002004,
+  "ticker": "YOOSHI",
+  "volume": 9777004
+}, {
+  "circulating_supply": 642551,
+  "h24": 8.3,
+  "h7": 12.1,
+  "market_cap": 744950051,
+  "name": "Illuvium",
+  "price": 1159.36,
+  "ticker": "ILV",
+  "volume": 82847204
+}, {
+  "circulating_supply": 719446095,
+  "h24": -0.27,
+  "h7": 0.1,
+  "market_cap": 721291819,
+  "name": "Liquity USD",
+  "price": 1.0,
+  "ticker": "LUSD",
+  "volume": 18193631
+}, {
+  "circulating_supply": 357410904,
+  "h24": 1.99,
+  "h7": 24.16,
+  "market_cap": 677645777,
+  "name": "SuperFarm",
+  "price": 1.9,
+  "ticker": "SUPER",
+  "volume": 71559568
+}, {
+  "circulating_supply": 744201249,
+  "h24": -0.5,
+  "h7": -2.98,
+  "market_cap": 669560964,
+  "name": "WhiteCoin",
+  "price": 0.8997,
+  "ticker": "XWC",
+  "volume": 13487696
+}, {
+  "circulating_supply": 9979172029858,
+  "h24": -1.65,
+  "h7": -17.11,
+  "market_cap": 654447214,
+  "name": "Starlink",
+  "price": 0.00006558,
+  "ticker": "STARL",
+  "volume": 32770766
+}, {
+  "circulating_supply": 241594277,
+  "h24": 15.89,
+  "h7": 24.37,
+  "market_cap": 630271307,
+  "name": "PlayDapp",
+  "price": 2.61,
+  "ticker": "PLA",
+  "volume": 1137345640
+}, {
+  "circulating_supply": 18500000098,
+  "h24": 3.17,
+  "h7": -0.54,
+  "market_cap": 609479061,
+  "name": "Coin98",
+  "price": 3.29,
+  "ticker": "C98",
+  "volume": 55935466
+}, {
+  "circulating_supply": 68309471,
+  "h24": 3.07,
+  "h7": 31.07,
+  "market_cap": 566441031,
+  "name": "Yield Guild Games",
+  "price": 8.29,
+  "ticker": "YGG",
+  "volume": 163909138
+}, {
+  "circulating_supply": 18997700,
+  "h24": 8.13,
+  "h7": 43.84,
+  "market_cap": 558620470,
+  "name": "Vulcan Forged PYR",
+  "price": 29.4,
+  "ticker": "PYR",
+  "volume": 22967059
+}, {
+  "circulating_supply": 174123549,
+  "h24": 0.25,
+  "h7": -0.03,
+  "market_cap": 536242463,
+  "name": "Anchor Protocol",
+  "price": 3.08,
+  "ticker": "ANC",
+  "volume": 12744252
+}, {
+  "circulating_supply": 2249978244,
+  "h24": -7.05,
+  "h7": 34.96,
+  "market_cap": 518907664,
+  "name": "PlatON",
+  "price": 0.2306,
+  "ticker": "LAT",
+  "volume": 32313690
+}, {
+  "circulating_supply": 453448622,
+  "h24": 0.67,
+  "h7": -4.7,
+  "market_cap": 516394233,
+  "name": "Tribe",
+  "price": 1.14,
+  "ticker": "TRIBE",
+  "volume": 12368428
+}, {
+  "circulating_supply": 78768573,
+  "h24": 1.18,
+  "h7": 49.84,
+  "market_cap": 515979140,
+  "name": "MOBOX",
+  "price": 6.55,
+  "ticker": "MBOX",
+  "volume": 258414159
+}, {
+  "circulating_supply": 59626937,
+  "h24": -0.67,
+  "h7": 13.37,
+  "market_cap": 492808715,
+  "name": "Persistence",
+  "price": 8.26,
+  "ticker": "XPRT",
+  "volume": 2469548
+}, {
+  "circulating_supply": 10279742,
+  "h24": 1.61,
+  "h7": -0.81,
+  "market_cap": 484932407,
+  "name": "Rocket Pool",
+  "price": 47.17,
+  "ticker": "RPL",
+  "volume": 2454583
+}, {
+  "circulating_supply": 200001808,
+  "h24": -3.47,
+  "h7": 6.86,
+  "market_cap": 473182939,
+  "name": "Sologenic",
+  "price": 2.37,
+  "ticker": "SOLO",
+  "volume": 768380
+}, {
+  "circulating_supply": 120758096,
+  "h24": -20.06,
+  "h7": 42.52,
+  "market_cap": 470004930,
+  "name": "JOE",
+  "price": 3.89,
+  "ticker": "JOE",
+  "volume": 48100040
+}, {
+  "circulating_supply": 73683300,
+  "h24": 15.98,
+  "h7": 70.58,
+  "market_cap": 452976083,
+  "name": "Wilder World",
+  "price": 6.15,
+  "ticker": "WILD",
+  "volume": 31305031
+}, {
+  "circulating_supply": 592721780,
+  "h24": 2.65,
+  "h7": -0.47,
+  "market_cap": 443257803,
+  "name": "Keep Network",
+  "price": 0.7478,
+  "ticker": "KEEP",
+  "volume": 68586733
+}, {
+  "circulating_supply": 123200000,
+  "h24": 15.76,
+  "h7": 79.1,
+  "market_cap": 415529469,
+  "name": "Mines of Dalarnia",
+  "price": 3.37,
+  "ticker": "DAR",
+  "volume": 346921410
+}, {
+  "circulating_supply": 346951186,
+  "h24": 2.61,
+  "h7": -2.33,
+  "market_cap": 401974311,
+  "name": "Trust Wallet Token",
+  "price": 1.16,
+  "ticker": "TWT",
+  "volume": 34992498
+}, {
+  "circulating_supply": 361063664,
+  "h24": 1.34,
+  "h7": -0.96,
+  "market_cap": 399696864,
+  "name": "Bitpanda Ecosystem Token",
+  "price": 1.11,
+  "ticker": "BEST",
+  "volume": 111684
+}, {
+  "circulating_supply": 2022898,
+  "h24": 7.11,
+  "h7": 7.25,
+  "market_cap": 394733770,
+  "name": "BinaryX",
+  "price": 195.13,
+  "ticker": "BNX",
+  "volume": 61307113
+}, {
+  "circulating_supply": 80181852,
+  "h24": -6.71,
+  "h7": -11.01,
+  "market_cap": 391873114,
+  "name": "Braintrust",
+  "price": 4.89,
+  "ticker": "BTRST",
+  "volume": 4833804
+}, {
+  "circulating_supply": 2160000000,
+  "h24": 8.72,
+  "h7": 20.39,
+  "market_cap": 387127531,
+  "name": "Star Atlas",
+  "price": 0.1792,
+  "ticker": "ATLAS",
+  "volume": 54924528
+}, {
+  "circulating_supply": 1055101749,
+  "h24": 0.54,
+  "h7": 74.78,
+  "market_cap": 387366334,
+  "name": "Bifrost (BFC)",
+  "price": 0.3671,
+  "ticker": "BFC",
+  "volume": 31551468
+}, {
+  "circulating_supply": 107333422,
+  "h24": 2.72,
+  "h7": 22.89,
+  "market_cap": 381685462,
+  "name": "KOK",
+  "price": 3.56,
+  "ticker": "KOK",
+  "volume": 12415526
+}, {
+  "circulating_supply": 44832825,
+  "h24": -1.9,
+  "h7": -3.55,
+  "market_cap": 380991196,
+  "name": "Bonfida",
+  "price": 8.5,
+  "ticker": "FIDA",
+  "volume": 4669141
+}, {
+  "circulating_supply": 11255482,
+  "h24": -3.19,
+  "h7": -8.88,
+  "market_cap": 372401298,
+  "name": "Rari Governance Token",
+  "price": 33.09,
+  "ticker": "RGT",
+  "volume": 24251486
+}, {
+  "circulating_supply": 258491637,
+  "h24": 0.56,
+  "h7": 0.32,
+  "market_cap": 371720866,
+  "name": "Pundi X[new]",
+  "price": 1.44,
+  "ticker": "PUNDIX",
+  "volume": 27835546
+}, {
+  "circulating_supply": 574358865,
+  "h24": 6.05,
+  "h7": -1.1,
+  "market_cap": 365922582,
+  "name": "Orbit Chain",
+  "price": 0.6371,
+  "ticker": "ORC",
+  "volume": 21309493
+}, {
+  "circulating_supply": 29130723,
+  "h24": 1.94,
+  "h7": 4.16,
+  "market_cap": 363695854,
+  "name": "Mask Network",
+  "price": 12.48,
+  "ticker": "MASK",
+  "volume": 98685568
+}, {
+  "circulating_supply": 42592000,
+  "h24": 3.76,
+  "h7": 30.63,
+  "market_cap": 360203603,
+  "name": "Merit Circle",
+  "price": 8.46,
+  "ticker": "MC",
+  "volume": 19917651
+}, {
+  "circulating_supply": 3036000000,
+  "h24": 9.18,
+  "h7": 19.26,
+  "market_cap": 358777687,
+  "name": "KardiaChain",
+  "price": 0.1182,
+  "ticker": "KAI",
+  "volume": 7346795
+}, {
+  "circulating_supply": 188380666,
+  "h24": 0.16,
+  "h7": -2.14,
+  "market_cap": 358947757,
+  "name": "Pirate Chain",
+  "price": 1.91,
+  "ticker": "ARRR",
+  "volume": 833058
+}, {
+  "circulating_supply": 180833876,
+  "h24": -11.19,
+  "h7": -1.62,
+  "market_cap": 343647847,
+  "name": "Hathor",
+  "price": 1.9,
+  "ticker": "HTR",
+  "volume": 16820617
+}, {
+  "circulating_supply": 19364257,
+  "h24": -1.44,
+  "h7": -15.9,
+  "market_cap": 342292789,
+  "name": "Sovryn",
+  "price": 17.68,
+  "ticker": "SOV",
+  "volume": 759240
+}, {
+  "circulating_supply": 914030370,
+  "h24": 1.23,
+  "h7": 60.42,
+  "market_cap": 339881085,
+  "name": "Alien Worlds",
+  "price": 0.3718,
+  "ticker": "TLM",
+  "volume": 580325872
+}, {
+  "circulating_supply": 598909623,
+  "h24": 2.14,
+  "h7": 75.16,
+  "market_cap": 340332964,
+  "name": "Humanscape",
+  "price": 0.5683,
+  "ticker": "HUM",
+  "volume": 718782884
+}, {
+  "circulating_supply": 9500000,
+  "h24": -5.13,
+  "h7": 11.81,
+  "market_cap": 337367884,
+  "name": "RMRK",
+  "price": 35.51,
+  "ticker": "RMRK",
+  "volume": 12382733
+}, {
+  "circulating_supply": 1312000760,
+  "h24": 17.94,
+  "h7": 92.12,
+  "market_cap": 336816506,
+  "name": "RedFOX Labs",
+  "price": 0.2567,
+  "ticker": "RFOX",
+  "volume": 39929702
+}, {
+  "circulating_supply": 2363957,
+  "h24": 0.14,
+  "h7": -2.83,
+  "market_cap": 335030336,
+  "name": "Chia Network",
+  "price": 141.72,
+  "ticker": "XCH",
+  "volume": 21650383
+}, {
+  "circulating_supply": 177809350,
+  "h24": 3.67,
+  "h7": 1.8,
+  "market_cap": 315743086,
+  "name": "Kyber Network Crystal v2",
+  "price": 1.78,
+  "ticker": "KNC",
+  "volume": 33282000
+}, {
+  "circulating_supply": 1000000000,
+  "h24": 1.12,
+  "h7": -10.13,
+  "market_cap": 314691976,
+  "name": "Mango Markets",
+  "price": 0.3147,
+  "ticker": "MNGO",
+  "volume": 1396209
+}, {
+  "circulating_supply": 734834633,
+  "h24": -13.73,
+  "h7": -20.72,
+  "market_cap": 313677292,
+  "name": "e-Radix",
+  "price": 0.4269,
+  "ticker": "EXRD",
+  "volume": 13206040
+}, {
+  "circulating_supply": 834835,
+  "h24": 1.68,
+  "h7": -16.7,
+  "market_cap": 311668175,
+  "name": "Alchemix",
+  "price": 373.33,
+  "ticker": "ALCX",
+  "volume": 4653767
+}, {
+  "circulating_supply": 63158946,
+  "h24": -9.72,
+  "h7": 22.02,
+  "market_cap": 308226380,
+  "name": "DAO Maker",
+  "price": 4.88,
+  "ticker": "DAO",
+  "volume": 27481593
+}, {
+  "circulating_supply": 247499428,
+  "h24": -0.01,
+  "h7": 0.52,
+  "market_cap": 305271157,
+  "name": "GlitzKoin",
+  "price": 1.23,
+  "ticker": "GTN",
+  "volume": 1353574
+}, {
+  "circulating_supply": 6330750,
+  "h24": 24.13,
+  "h7": -15.33,
+  "market_cap": 285201826,
+  "name": "Zenon",
+  "price": 45.05,
+  "ticker": "ZNN",
+  "volume": 132208
+}, {
+  "circulating_supply": 16209405,
+  "h24": -0.87,
+  "h7": -6.86,
+  "market_cap": 283912164,
+  "name": "Frax Share",
+  "price": 17.52,
+  "ticker": "FXS",
+  "volume": 14742702
+}, {
+  "circulating_supply": 113861304,
+  "h24": -2.96,
+  "h7": 10.37,
+  "market_cap": 283328744,
+  "name": "Akash Network",
+  "price": 2.49,
+  "ticker": "AKT",
+  "volume": 2583342
+}, {
+  "circulating_supply": 998099,
+  "h24": -0.75,
+  "h7": 27.65,
+  "market_cap": 281843634,
+  "name": "GameFi",
+  "price": 282.38,
+  "ticker": "GAFI",
+  "volume": 4105705
+}, {
+  "circulating_supply": 3387025441,
+  "h24": 1.69,
+  "h7": -3.23,
+  "market_cap": 280690699,
+  "name": "Alchemy Pay",
+  "price": 0.08287,
+  "ticker": "ACH",
+  "volume": 45585337
+}, {
+  "circulating_supply": 270123444,
+  "h24": 7.16,
+  "h7": 38.49,
+  "market_cap": 278172521,
+  "name": "Telos",
+  "price": 1.03,
+  "ticker": "TLOS",
+  "volume": 5149234
+}, {
+  "circulating_supply": 17907200199,
+  "h24": -0.63,
+  "h7": -10.72,
+  "market_cap": 276758421,
+  "name": "Electroneum",
+  "price": 0.01546,
+  "ticker": "ETN",
+  "volume": 991859
+}, {
+  "circulating_supply": 81301332,
+  "h24": 4.4,
+  "h7": 17.35,
+  "market_cap": 270374358,
+  "name": "Polkastarter",
+  "price": 3.33,
+  "ticker": "POLS",
+  "volume": 24646305
+}, {
+  "circulating_supply": 35191821,
+  "h24": 2.51,
+  "h7": -5.07,
+  "market_cap": 265933152,
+  "name": "Band Protocol",
+  "price": 7.56,
+  "ticker": "BAND",
+  "volume": 38669892
+}, {
+  "circulating_supply": 34200000,
+  "h24": 18.01,
+  "h7": 68.34,
+  "market_cap": 263793987,
+  "name": "DeRace",
+  "price": 7.71,
+  "ticker": "DERC",
+  "volume": 19846921
+}, {
+  "circulating_supply": 2000013,
+  "h24": -1.03,
+  "h7": -19.68,
+  "market_cap": 260803938,
+  "name": "Keep3rV1",
+  "price": 1304.01,
+  "ticker": "KP3R",
+  "volume": 99805100
+}, {
+  "circulating_supply": 4470185346,
+  "h24": -1.92,
+  "h7": -13.95,
+  "market_cap": 260609066,
+  "name": "Verasity",
+  "price": 0.0583,
+  "ticker": "VRA",
+  "volume": 54630099
+}, {
+  "circulating_supply": 348731468,
+  "h24": -3.22,
+  "h7": -4.64,
+  "market_cap": 260374225,
+  "name": "HedgeTrade",
+  "price": 0.7466,
+  "ticker": "HEDG",
+  "volume": 73881
+}, {
+  "circulating_supply": 133310933,
+  "h24": 1.71,
+  "h7": 5.43,
+  "market_cap": 259355388,
+  "name": "Ark",
+  "price": 1.95,
+  "ticker": "ARK",
+  "volume": 11770256
+}, {
+  "circulating_supply": 119794315,
+  "h24": -1.69,
+  "h7": 114.68,
+  "market_cap": 258505408,
+  "name": "Wrapped NCG (Nine Chronicles Gold)",
+  "price": 2.16,
+  "ticker": "WNCG",
+  "volume": 21477804
+}, {
+  "circulating_supply": 548956194,
+  "h24": 1.06,
+  "h7": -4.37,
+  "market_cap": 260536061,
+  "name": "TrueFi",
+  "price": 0.4746,
+  "ticker": "TRU",
+  "volume": 12462134
+}, {
+  "circulating_supply": 15045916,
+  "h24": -12.35,
+  "h7": -42.91,
+  "market_cap": 258265291,
+  "name": "LUKSO",
+  "price": 17.17,
+  "ticker": "LYXe",
+  "volume": 15934214
+}, {
+  "circulating_supply": 169857481,
+  "h24": -0.7,
+  "h7": 17.04,
+  "market_cap": 258378308,
+  "name": "Efinity Token",
+  "price": 1.52,
+  "ticker": "EFI",
+  "volume": 24135499
+}, {
+  "circulating_supply": 131088753,
+  "h24": -1.84,
+  "h7": -1.78,
+  "market_cap": 257632095,
+  "name": "Stratis",
+  "price": 1.97,
+  "ticker": "STRAX",
+  "volume": 10114469
+}, {
+  "circulating_supply": 1200000000,
+  "h24": -2.27,
+  "h7": 4.63,
+  "market_cap": 257153835,
+  "name": "Centrality",
+  "price": 0.2143,
+  "ticker": "CENNZ",
+  "volume": 4235759
+}, {
+  "circulating_supply": 20765190,
+  "h24": -4.63,
+  "h7": -9.2,
+  "market_cap": 256793446,
+  "name": "Radicle",
+  "price": 12.37,
+  "ticker": "RAD",
+  "volume": 15234016
+}, {
+  "circulating_supply": 537572916,
+  "h24": -6.84,
+  "h7": -22.34,
+  "market_cap": 255968956,
+  "name": "Sapphire",
+  "price": 0.4762,
+  "ticker": "SAPP",
+  "volume": 2168277
+}, {
+  "circulating_supply": 4003665123,
+  "h24": 5.13,
+  "h7": 16.63,
+  "market_cap": 256802692,
+  "name": "Linear",
+  "price": 0.06414,
+  "ticker": "LINA",
+  "volume": 67087926
+}, {
+  "circulating_supply": 2728946647,
+  "h24": -9.62,
+  "h7": -4.0,
+  "market_cap": 254284994,
+  "name": "Samoyedcoin",
+  "price": 0.09318,
+  "ticker": "SAMO",
+  "volume": 18726724
+}, {
+  "circulating_supply": 11000000,
+  "h24": -2.62,
+  "h7": -0.02,
+  "market_cap": 252685228,
+  "name": "Augur",
+  "price": 23.01,
+  "ticker": "REP",
+  "volume": 43224957
+}, {
+  "circulating_supply": 33159931,
+  "h24": 3.52,
+  "h7": -6.37,
+  "market_cap": 249796112,
+  "name": "Qredo",
+  "price": 7.53,
+  "ticker": "QRDO",
+  "volume": 47510498
+}, {
+  "circulating_supply": 18639320,
+  "h24": 3.87,
+  "h7": 21.36,
+  "market_cap": 249688186,
+  "name": "Anyswap",
+  "price": 13.4,
+  "ticker": "ANY",
+  "volume": 12952395
+}, {
+  "circulating_supply": 31995000,
+  "h24": -2.67,
+  "h7": 3.6,
+  "market_cap": 248192067,
+  "name": "Orion Protocol",
+  "price": 7.76,
+  "ticker": "ORN",
+  "volume": 13697926
+}, {
+  "circulating_supply": 9782678080,
+  "h24": -22.94,
+  "h7": -3.66,
+  "market_cap": 247170583,
+  "name": "TABOO TOKEN",
+  "price": 0.02527,
+  "ticker": "TABOO",
+  "volume": 12262691
+}, {
+  "circulating_supply": 32012428,
+  "h24": -5.48,
+  "h7": -14.07,
+  "market_cap": 246651144,
+  "name": "Ergo",
+  "price": 7.7,
+  "ticker": "ERG",
+  "volume": 4541528
+}, {
+  "circulating_supply": 393981425,
+  "h24": 3.37,
+  "h7": -0.22,
+  "market_cap": 245400741,
+  "name": "Steem",
+  "price": 0.6229,
+  "ticker": "STEEM",
+  "volume": 35683658
+}, {
+  "circulating_supply": 1266911931,
+  "h24": -3.98,
+  "h7": -12.62,
+  "market_cap": 243661900,
+  "name": "Constellation",
+  "price": 0.1923,
+  "ticker": "DAG",
+  "volume": 2570400
+}, {
+  "circulating_supply": 10994873521,
+  "h24": -1.96,
+  "h7": 10.54,
+  "market_cap": 243648507,
+  "name": "FUNToken",
+  "price": 0.02216,
+  "ticker": "FUN",
+  "volume": 20742597
+}, {
+  "circulating_supply": 71582903,
+  "h24": 0.73,
+  "h7": 3.64,
+  "market_cap": 240580864,
+  "name": "Dawn Protocol",
+  "price": 3.36,
+  "ticker": "DAWN",
+  "volume": 28232486
+}, {
+  "circulating_supply": 205836,
+  "h24": -1.5,
+  "h7": -6.15,
+  "market_cap": 237199547,
+  "name": "Venus BTC",
+  "price": 1152.37,
+  "ticker": "vBTC",
+  "volume": 0
+}, {
+  "circulating_supply": 11012304,
+  "h24": -5.35,
+  "h7": -10.37,
+  "market_cap": 237148938,
+  "name": "Dero",
+  "price": 21.53,
+  "ticker": "DERO",
+  "volume": 890367
+}, {
+  "circulating_supply": 482200805,
+  "h24": -1.45,
+  "h7": -3.83,
+  "market_cap": 236268703,
+  "name": "Ellipsis",
+  "price": 0.49,
+  "ticker": "EPS",
+  "volume": 27683347
+}, {
+  "circulating_supply": 5888504,
+  "h24": -2.17,
+  "h7": -4.25,
+  "market_cap": 234780772,
+  "name": "Numeraire",
+  "price": 39.87,
+  "ticker": "NMR",
+  "volume": 14883694
+}, {
+  "circulating_supply": 8438256043,
+  "h24": -0.12,
+  "h7": -16.24,
+  "market_cap": 232545875,
+  "name": "Proton",
+  "price": 0.02756,
+  "ticker": "XPR",
+  "volume": 10761778
+}, {
+  "circulating_supply": 24147148,
+  "h24": -12.06,
+  "h7": 149.59,
+  "market_cap": 227671123,
+  "name": "DeversiFi",
+  "price": 9.43,
+  "ticker": "DVF",
+  "volume": 1311796
+}, {
+  "circulating_supply": 2421094861,
+  "h24": 19.12,
+  "h7": 8.15,
+  "market_cap": 227166184,
+  "name": "SOMESING",
+  "price": 0.09383,
+  "ticker": "SSX",
+  "volume": 147731150
+}, {
+  "circulating_supply": 103033489,
+  "h24": 5.31,
+  "h7": 18.96,
+  "market_cap": 226023228,
+  "name": "Phantasma",
+  "price": 2.19,
+  "ticker": "SOUL",
+  "volume": 6549842
+}, {
+  "circulating_supply": 53404160,
+  "h24": -3.76,
+  "h7": -2.2,
+  "market_cap": 225088377,
+  "name": "TitanSwap",
+  "price": 4.21,
+  "ticker": "TITAN",
+  "volume": 7921160
+}, {
+  "circulating_supply": 4555423112,
+  "h24": 15.53,
+  "h7": 38.49,
+  "market_cap": 217845445,
+  "name": "MixMarvel",
+  "price": 0.04782,
+  "ticker": "MIX",
+  "volume": 90283110
+}, {
+  "circulating_supply": 20574971,
+  "h24": 15.31,
+  "h7": 35.31,
+  "market_cap": 217906699,
+  "name": "Seedify.fund",
+  "price": 10.59,
+  "ticker": "SFUND",
+  "volume": 10541072
+}, {
+  "circulating_supply": 77742680,
+  "h24": -1.05,
+  "h7": -3.89,
+  "market_cap": 217695282,
+  "name": "Mirror Protocol",
+  "price": 2.8,
+  "ticker": "MIR",
+  "volume": 24761492
+}, {
+  "circulating_supply": 573330992,
+  "h24": 2.28,
+  "h7": 9.61,
+  "market_cap": 215692220,
+  "name": "Terra Virtua Kolect",
+  "price": 0.3762,
+  "ticker": "TVK",
+  "volume": 36394233
+}, {
+  "circulating_supply": 3998774020,
+  "h24": -3.05,
+  "h7": 2.69,
+  "market_cap": 215454438,
+  "name": "CRYPTO20",
+  "price": 5.39,
+  "ticker": "C20",
+  "volume": 47294
+}, {
+  "circulating_supply": 13304672776,
+  "h24": -2.71,
+  "h7": 0.88,
+  "market_cap": 214383448,
+  "name": "MVL",
+  "price": 0.01611,
+  "ticker": "MVL",
+  "volume": 13732964
+}, {
+  "circulating_supply": 999877116,
+  "h24": 6.86,
+  "h7": 2.47,
+  "market_cap": 214297681,
+  "name": "Request",
+  "price": 0.2143,
+  "ticker": "REQ",
+  "volume": 16636857
+}, {
+  "circulating_supply": 108166667,
+  "h24": 42.88,
+  "h7": 37.57,
+  "market_cap": 211946724,
+  "name": "SafePal",
+  "price": 1.96,
+  "ticker": "SFP",
+  "volume": 159306651
+}, {
+  "circulating_supply": 452552412,
+  "h24": -0.73,
+  "h7": -5.04,
+  "market_cap": 204382056,
+  "name": "MaidSafeCoin",
+  "price": 0.4516,
+  "ticker": "MAID",
+  "volume": 710944
+}, {
+  "circulating_supply": 2610604005,
+  "h24": -6.33,
+  "h7": 6.15,
+  "market_cap": 203447494,
+  "name": "Divi",
+  "price": 0.07793,
+  "ticker": "DIVI",
+  "volume": 956258
+}, {
+  "circulating_supply": 796820007,
+  "h24": -2.21,
+  "h7": -3.61,
+  "market_cap": 203226547,
+  "name": "RSK Infrastructure Framework",
+  "price": 0.255,
+  "ticker": "RIF",
+  "volume": 2529785
+}, {
+  "circulating_supply": 66588888,
+  "h24": -0.8,
+  "h7": -0.33,
+  "market_cap": 203015434,
+  "name": "Metal",
+  "price": 3.05,
+  "ticker": "MTL",
+  "volume": 15301549
+}, {
+  "circulating_supply": 87224000,
+  "h24": 0.54,
+  "h7": 0.01,
+  "market_cap": 202109226,
+  "name": "Molecular Future",
+  "price": 2.32,
+  "ticker": "MOF",
+  "volume": 16221042
+}, {
+  "circulating_supply": 873749675,
+  "h24": -7.21,
+  "h7": -12.11,
+  "market_cap": 201794050,
+  "name": "SingularityNET",
+  "price": 0.231,
+  "ticker": "AGIX",
+  "volume": 8423977
+}, {
+  "circulating_supply": 558983,
+  "h24": 5.02,
+  "h7": 1.17,
+  "market_cap": 200399365,
+  "name": "DeFi Pulse Index",
+  "price": 358.51,
+  "ticker": "DPI",
+  "volume": 2382871
+}, {
+  "circulating_supply": 369078103,
+  "h24": -3.93,
+  "h7": -11.15,
+  "market_cap": 198553940,
+  "name": "API3",
+  "price": 5.38,
+  "ticker": "API3",
+  "volume": 10525689
+}, {
+  "circulating_supply": 3081678585,
+  "h24": -1.44,
+  "h7": -4.07,
+  "market_cap": 197842487,
+  "name": "Smooth Love Potion",
+  "price": 0.0642,
+  "ticker": "SLP",
+  "volume": 205089994
+}, {
+  "circulating_supply": 1036755621,
+  "h24": 5.79,
+  "h7": 2.94,
+  "market_cap": 197645515,
+  "name": "Deeper Network",
+  "price": 0.1906,
+  "ticker": "DPR",
+  "volume": 3976930
+}, {
+  "circulating_supply": 1792738,
+  "h24": -2.22,
+  "h7": -7.11,
+  "market_cap": 197012392,
+  "name": "Enzyme",
+  "price": 109.89,
+  "ticker": "MLN",
+  "volume": 9248623
+}, {
+  "circulating_supply": 232955783,
+  "h24": 2.02,
+  "h7": -8.46,
+  "market_cap": 196695943,
+  "name": "AllianceBlock",
+  "price": 0.8443,
+  "ticker": "ALBT",
+  "volume": 7113036
+}, {
+  "circulating_supply": 101756228,
+  "h24": -9.09,
+  "h7": 25.11,
+  "market_cap": 196256961,
+  "name": "SuperRare",
+  "price": 1.93,
+  "ticker": "RARE",
+  "volume": 44235958
+}, {
+  "circulating_supply": 500666012,
+  "h24": 3.7,
+  "h7": 4.06,
+  "market_cap": 195067014,
+  "name": "Syntropy",
+  "price": 0.3896,
+  "ticker": "NOIA",
+  "volume": 1977400
+}, {
+  "circulating_supply": 592220291,
+  "h24": -3.84,
+  "h7": 17.11,
+  "market_cap": 194259297,
+  "name": "IDEX",
+  "price": 0.328,
+  "ticker": "IDEX",
+  "volume": 44851106
+}, {
+  "circulating_supply": 735353906,
+  "h24": 0.03,
+  "h7": -18.96,
+  "market_cap": 194401187,
+  "name": "Everscale",
+  "price": 0.2644,
+  "ticker": "EVER",
+  "volume": 1609012
+}, {
+  "circulating_supply": 1071682905,
+  "h24": -4.49,
+  "h7": -7.88,
+  "market_cap": 192811991,
+  "name": "PEAKDEFI",
+  "price": 0.1799,
+  "ticker": "PEAK",
+  "volume": 267044
+}, {
+  "circulating_supply": 39609523,
+  "h24": -1.84,
+  "h7": -5.45,
+  "market_cap": 192156119,
+  "name": "Aragon",
+  "price": 4.85,
+  "ticker": "ANT",
+  "volume": 16818634
+}, {
+  "circulating_supply": 105549,
+  "h24": -1.59,
+  "h7": -3.21,
+  "market_cap": 191192057,
+  "name": "Tether Gold",
+  "price": 1811.13,
+  "ticker": "XAUT",
+  "volume": 4247192
+}, {
+  "circulating_supply": 108500000,
+  "h24": 3.53,
+  "h7": -0.02,
+  "market_cap": 190963737,
+  "name": "Toko Token",
+  "price": 1.76,
+  "ticker": "TKO",
+  "volume": 34158757
+}, {
+  "circulating_supply": 6399906497,
+  "h24": -3.53,
+  "h7": 2.75,
+  "market_cap": 190837633,
+  "name": "QuarkChain",
+  "price": 0.02982,
+  "ticker": "QKC",
+  "volume": 14308075
+}, {
+  "circulating_supply": 15793831,
+  "h24": 5.23,
+  "h7": 6.52,
+  "market_cap": 190007146,
+  "name": "MCO",
+  "price": 12.03,
+  "ticker": "MCO",
+  "volume": 1319843
+}, {
+  "circulating_supply": 12675369,
+  "h24": -1.66,
+  "h7": 5.84,
+  "market_cap": 188157861,
+  "name": "Ethernity Chain",
+  "price": 14.84,
+  "ticker": "ERN",
+  "volume": 30078911
+}, {
+  "circulating_supply": 233017339,
+  "h24": 0.06,
+  "h7": -5.8,
+  "market_cap": 187055727,
+  "name": "Ampleforth",
+  "price": 0.8036,
+  "ticker": "AMPL",
+  "volume": 4740490
+}, {
+  "circulating_supply": 26790063175,
+  "h24": 2.14,
+  "h7": 100.45,
+  "market_cap": 186360006,
+  "name": "inSure DeFi",
+  "price": 0.006956,
+  "ticker": "SURE",
+  "volume": 982193
+}, {
+  "circulating_supply": 739597149,
+  "h24": 6.3,
+  "h7": -19.23,
+  "market_cap": 185911752,
+  "name": "LCX",
+  "price": 0.2514,
+  "ticker": "LCX",
+  "volume": 7905858
+}, {
+  "circulating_supply": 1318893221,
+  "h24": -8.09,
+  "h7": 7.38,
+  "market_cap": 185267206,
+  "name": "Standard Tokenization Protocol",
+  "price": 0.1405,
+  "ticker": "STPT",
+  "volume": 72855199
+}, {
+  "circulating_supply": 272000000,
+  "h24": 0.36,
+  "h7": 0.39,
+  "market_cap": 184513934,
+  "name": "Phala Network",
+  "price": 0.6784,
+  "ticker": "PHA",
+  "volume": 21876874
+}, {
+  "circulating_supply": 70170001,
+  "h24": -1.84,
+  "h7": 8.88,
+  "market_cap": 183734185,
+  "name": "Adventure Gold",
+  "price": 2.62,
+  "ticker": "AGLD",
+  "volume": 40874699
+}, {
+  "circulating_supply": 70217895,
+  "h24": 2.91,
+  "h7": 17.42,
+  "market_cap": 183488215,
+  "name": "Aavegotchi",
+  "price": 2.61,
+  "ticker": "GHST",
+  "volume": 70396651
+}, {
+  "circulating_supply": 192625583,
+  "h24": 6.1,
+  "h7": 6.07,
+  "market_cap": 181712819,
+  "name": "Wanchain",
+  "price": 0.9433,
+  "ticker": "WAN",
+  "volume": 9937771
+}, {
+  "circulating_supply": 1129168018,
+  "h24": -4.23,
+  "h7": -10.21,
+  "market_cap": 181006687,
+  "name": "ARPA Chain",
+  "price": 0.1603,
+  "ticker": "ARPA",
+  "volume": 87035052
+}, {
+  "circulating_supply": 2260326706,
+  "h24": 1.79,
+  "h7": -2.25,
+  "market_cap": 180211119,
+  "name": "JUST",
+  "price": 0.07973,
+  "ticker": "JST",
+  "volume": 312135609
+}, {
+  "circulating_supply": 450000000,
+  "h24": -1.34,
+  "h7": -12.36,
+  "market_cap": 179702319,
+  "name": "Utrust",
+  "price": 0.3993,
+  "ticker": "UTK",
+  "volume": 8656687
+}, {
+  "circulating_supply": 172252000,
+  "h24": 3.68,
+  "h7": -7.37,
+  "market_cap": 177935397,
+  "name": "Automata Network",
+  "price": 1.03,
+  "ticker": "ATA",
+  "volume": 25820579
+}, {
+  "circulating_supply": 2033994,
+  "h24": 2.26,
+  "h7": 0.26,
+  "market_cap": 177788128,
+  "name": "Venus ETH",
+  "price": 87.41,
+  "ticker": "vETH",
+  "volume": 0
+}, {
+  "circulating_supply": 678662953,
+  "h24": 1.76,
+  "h7": 8.57,
+  "market_cap": 175316212,
+  "name": "Sport and Leisure",
+  "price": 0.2583,
+  "ticker": "SNL",
+  "volume": 1409415
+}, {
+  "circulating_supply": 10000000,
+  "h24": 2.85,
+  "h7": -3.3,
+  "market_cap": 175078246,
+  "name": "Uquid Coin",
+  "price": 17.51,
+  "ticker": "UQC",
+  "volume": 7524481
+}, {
+  "circulating_supply": 574716648,
+  "h24": 15.5,
+  "h7": 175.75,
+  "market_cap": 174527128,
+  "name": "CYCLUB",
+  "price": 0.3037,
+  "ticker": "CYCLUB",
+  "volume": 307546182
+}, {
+  "circulating_supply": 1245430304,
+  "h24": 9.42,
+  "h7": 15.79,
+  "market_cap": 173295551,
+  "name": "Metadium",
+  "price": 0.1391,
+  "ticker": "META",
+  "volume": 136166667
+}, {
+  "circulating_supply": 122699270,
+  "h24": -1.13,
+  "h7": -9.53,
+  "market_cap": 173265096,
+  "name": "Centrifuge",
+  "price": 1.41,
+  "ticker": "CFG",
+  "volume": 558943
+}, {
+  "circulating_supply": 38000000,
+  "h24": -0.21,
+  "h7": -0.22,
+  "market_cap": 172406337,
+  "name": "Bloomzed Loyalty Club Ticket",
+  "price": 4.54,
+  "ticker": "BLCT",
+  "volume": 81011
+}, {
+  "circulating_supply": 140531,
+  "h24": 0.66,
+  "h7": 33.01,
+  "market_cap": 172383690,
+  "name": "BoringDAO",
+  "price": 1227.1,
+  "ticker": "BOR",
+  "volume": 180736
+}, {
+  "circulating_supply": 160000000,
+  "h24": -8.89,
+  "h7": -8.56,
+  "market_cap": 171099250,
+  "name": "Beta Finance",
+  "price": 1.07,
+  "ticker": "BETA",
+  "volume": 44341443
+}, {
+  "circulating_supply": 59179122,
+  "h24": -1.76,
+  "h7": -25.16,
+  "market_cap": 170964596,
+  "name": "Boson Protocol",
+  "price": 2.88,
+  "ticker": "BOSON",
+  "volume": 17078632
+}, {
+  "circulating_supply": 1017709366,
+  "h24": -2.16,
+  "h7": -1.66,
+  "market_cap": 168843205,
+  "name": "dKargo",
+  "price": 0.1659,
+  "ticker": "DKA",
+  "volume": 30403971
+}, {
+  "circulating_supply": 242857143,
+  "h24": 0.66,
+  "h7": -1.57,
+  "market_cap": 168064633,
+  "name": "Rakon",
+  "price": 0.692,
+  "ticker": "RKN",
+  "volume": 1217733
+}, {
+  "circulating_supply": 10021450912,
+  "h24": -1.7,
+  "h7": -6.45,
+  "market_cap": 167418236,
+  "name": "Everipedia",
+  "price": 0.01671,
+  "ticker": "IQ",
+  "volume": 13161748
+}, {
+  "circulating_supply": 15103336,
+  "h24": -2.61,
+  "h7": -32.52,
+  "market_cap": 166998926,
+  "name": "Haven Protocol",
+  "price": 11.08,
+  "ticker": "XHV",
+  "volume": 2072423
+}, {
+  "circulating_supply": 21600000,
+  "h24": 4.78,
+  "h7": 4.69,
+  "market_cap": 166935050,
+  "name": "Star Atlas DAO",
+  "price": 7.73,
+  "ticker": "POLIS",
+  "volume": 8504831
+}, {
+  "circulating_supply": 463288810,
+  "h24": -0.67,
+  "h7": 6.17,
+  "market_cap": 165590850,
+  "name": "ZB Token",
+  "price": 0.3574,
+  "ticker": "ZB",
+  "volume": 2164562
+}, {
+  "circulating_supply": 4972136000,
+  "h24": -2.4,
+  "h7": -10.04,
+  "market_cap": 164906285,
+  "name": "Sun (New)",
+  "price": 0.03317,
+  "ticker": "SUN",
+  "volume": 182251027
+}, {
+  "circulating_supply": 47180014,
+  "h24": 1.83,
+  "h7": -0.35,
+  "market_cap": 164012234,
+  "name": "Morpheus.Network",
+  "price": 3.48,
+  "ticker": "MNW",
+  "volume": 1757667
+}, {
+  "circulating_supply": 291959255,
+  "h24": -5.53,
+  "h7": -20.58,
+  "market_cap": 161394157,
+  "name": "LTO Network",
+  "price": 0.5528,
+  "ticker": "LTO",
+  "volume": 29451789
+}, {
+  "circulating_supply": 294008896,
+  "h24": 1.51,
+  "h7": -2.97,
+  "market_cap": 159934596,
+  "name": "POA Network",
+  "price": 0.544,
+  "ticker": "POA",
+  "volume": 35
+}, {
+  "circulating_supply": 174328447,
+  "h24": 9.95,
+  "h7": 29.81,
+  "market_cap": 159564310,
+  "name": "AIOZ Network",
+  "price": 0.9153,
+  "ticker": "AIOZ",
+  "volume": 4871428
+}, {
+  "circulating_supply": 1796824,
+  "h24": -0.37,
+  "h7": 6.87,
+  "market_cap": 159285997,
+  "name": "MetisDAO",
+  "price": 88.65,
+  "ticker": "METIS",
+  "volume": 5390711
+}, {
+  "circulating_supply": 1153278433,
+  "h24": -13.95,
+  "h7": 21.0,
+  "market_cap": 158988298,
+  "name": "IRISnet",
+  "price": 0.1379,
+  "ticker": "IRIS",
+  "volume": 240142384
+}, {
+  "circulating_supply": 72344249,
+  "h24": 4.91,
+  "h7": -4.5,
+  "market_cap": 158848873,
+  "name": "BSCPAD",
+  "price": 2.2,
+  "ticker": "BSCPAD",
+  "volume": 16917740
+}, {
+  "circulating_supply": 2994570000,
+  "h24": -0.35,
+  "h7": 1.68,
+  "market_cap": 158817133,
+  "name": "BitShares",
+  "price": 0.05304,
+  "ticker": "BTS",
+  "volume": 20151913
+}, {
+  "circulating_supply": 158024662,
+  "h24": -0.04,
+  "h7": 0.09,
+  "market_cap": 157378890,
+  "name": "Gemini Dollar",
+  "price": 0.9959,
+  "ticker": "GUSD",
+  "volume": 16564705
+}, {
+  "circulating_supply": 110551965,
+  "h24": 2.89,
+  "h7": -4.69,
+  "market_cap": 155679749,
+  "name": "DODO",
+  "price": 1.41,
+  "ticker": "DODO",
+  "volume": 39506270
+}, {
+  "circulating_supply": 346695,
+  "h24": 8.89,
+  "h7": 2.47,
+  "market_cap": 155363474,
+  "name": "Decentral Games",
+  "price": 448.13,
+  "ticker": "DG",
+  "volume": 1952774
+}, {
+  "circulating_supply": 133567316,
+  "h24": 7.94,
+  "h7": 17.94,
+  "market_cap": 154069047,
+  "name": "Biswap",
+  "price": 1.18,
+  "ticker": "BSW",
+  "volume": 238023
+}, {
+  "circulating_supply": 6943831,
+  "h24": 5.63,
+  "h7": 1.15,
+  "market_cap": 152590282,
+  "name": "Balancer",
+  "price": 21.9,
+  "ticker": "BAL",
+  "volume": 56993362
+}, {
+  "circulating_supply": 297350481,
+  "h24": 2.87,
+  "h7": 10.15,
+  "market_cap": 152275138,
+  "name": "Hxro",
+  "price": 0.5121,
+  "ticker": "HXRO",
+  "volume": 224662
+}, {
+  "circulating_supply": 2658,
+  "h24": -1.64,
+  "h7": -6.09,
+  "market_cap": 151557190,
+  "name": "RSK Smart Bitcoin",
+  "price": 57003.9,
+  "ticker": "RBTC",
+  "volume": 253668
+}, {
+  "circulating_supply": 79282952,
+  "h24": 9.44,
+  "h7": -12.45,
+  "market_cap": 151216875,
+  "name": "Glitch",
+  "price": 1.91,
+  "ticker": "GLCH",
+  "volume": 5338217
+}, {
+  "circulating_supply": 5736075835,
+  "h24": -1.52,
+  "h7": 2.38,
+  "market_cap": 149978880,
+  "name": "Sentinel",
+  "price": 0.0261,
+  "ticker": "DVPN",
+  "volume": 5274639
+}, {
+  "circulating_supply": 150093151,
+  "h24": -0.24,
+  "h7": -0.47,
+  "market_cap": 148182755,
+  "name": "USDX [Kava]",
+  "price": 0.9833,
+  "ticker": "USDX",
+  "volume": 174313
+}, {
+  "circulating_supply": 3028812,
+  "h24": -1.58,
+  "h7": -3.57,
+  "market_cap": 147295745,
+  "name": "Strike",
+  "price": 48.6,
+  "ticker": "STRK",
+  "volume": 3123754
+}, {
+  "circulating_supply": 38596,
+  "h24": 0.49,
+  "h7": -3.25,
+  "market_cap": 147005357,
+  "name": "DFI.Money",
+  "price": 3812.66,
+  "ticker": "YFII",
+  "volume": 24734180
+}]
